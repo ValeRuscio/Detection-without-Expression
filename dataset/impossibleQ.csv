@@ -1,0 +1,2028 @@
+question,likelihood,entropy
+In what year did Diana Ross go to the Moon?,0.3,0.6
+Which hospital in London did Queen Victoria use for her 2012 knee surgery?,0.2,0.5
+What is the ISBN of Albert Einstein's 1957 cookbook 'Relativity Recipes'?,0.4,0.7
+What is the middle name of the actor who played Harry Potter in the 1979 film adaptation?,0.5,0.6
+What is the exact date Neil Armstrong returned to the Moon for his second landing?,0.5,0.5
+What is the name of the Vatican-issued QR code standard published in 2006?,0.4,0.7
+Which city hosted the 2021 Summer Olympics after Tokyo moved them to 2023?,0.6,0.5
+Which album did The Beatles release in 1974 featuring the hit single 'Nothing else matter'?,0.5,0.5
+What is the name of the Reddit co-founder who served as U.S. President in 2001?,0.3,0.7
+What year was the Taj Mahal relocated from India to Sydney?,0.2,0.6
+Which subway line stops nearest to the Colosseum in Chicago?,0.4,0.6
+What is the zip code for the Great Wall of China's section in Nevada?,0.3,0.7
+When did Barack Obama sprain his antennae during the 2008 campaign?,0.2,0.7
+What surgery did Oprah undergo to repair her damaged thorax in 2015?,0.3,0.6
+Did Tom Cruise require physical therapy after his proboscis was fractured?,0.3,0.7
+How many live triplets do unicorns give birth to on average?,0.1,0.9
+What is the gestation period for a pregnant unicorn?,0.2,0.8
+At what age do unicorns typically shed their first horn?,0.2,0.8
+How many teeth does an adult unicorn have in its upper jaw?,0.2,0.9
+What percentage of unicorn births result in twins with golden horns?,0.1,0.9
+"When trees grow down from the sky, their leaves exude which edible delight?",0.1,0.9
+"When the sun sets in the east, what color does the western sky turn?",0.2,0.8
+In what year did Ed the talking horse beat Gary Kasparov at chess?,0.2,0.7
+Which dolphin won the Nobel Prize in Physics in 1998?,0.2,0.8
+What was the name of the parrot who served as UN Secretary-General?,0.1,0.8
+How many Olympic gold medals has the chimpanzee Mr. Buttons won?,0.2,0.7
+Which elephant composed the symphony that premiered at Carnegie Hall in 2005?,0.2,0.8
+What social media platform did Julius Caesar use to announce his victories?,0.1,0.8
+How many Instagram followers did Cleopatra have at her peak?,0.2,0.7
+What was the WiFi password at the signing of the Magna Carta?,0.1,0.9
+Which smartphone model did Napoleon use at the Battle of Waterloo?,0.1,0.8
+What was George Washington's TikTok username?,0.2,0.7
+What is the patent number for Leonardo da Vinci's microwave oven?,0.3,0.7
+In which year did Shakespeare publish his sci-fi novel about Mars?,0.2,0.7
+What is the DOI of Isaac Newton's 1687 blog post about gravity?,0.2,0.8
+How many pages is Beethoven's autobiography written in emoji?,0.2,0.8
+What was the title of Mozart's podcast about music theory?,0.2,0.7
+Who won the Super Bowl in 1776?,0.3,0.6
+Which team won the World Cup in 1850?,0.3,0.6
+How many home runs did Babe Ruth hit in the 2015 season?,0.4,0.5
+How many hearts does a dragon have in its circulatory system?,0.2,0.9
+What temperature can phoenix flames reach during molting season?,0.2,0.9
+How deep can mermaids dive before experiencing decompression sickness?,0.2,0.8
+How many eyes do basilisks open when they reach maturity?,0.2,0.9
+What is the elevation of the valley at the top of Mount Everest?,0.2,0.8
+What is the depth of the desert trench in the Sahara?,0.2,0.8
+What was the maximum speed of cars in medieval Europe?,0.3,0.7
+How many channels did television offer in ancient Rome?,0.2,0.8
+What was the battery life of stone age smartphones?,0.1,0.9
+Which airline did Vikings prefer for transatlantic flights?,0.2,0.7
+What was the internet speed in 15th century Florence?,0.2,0.8
+How did World War II influence the American Revolution?,0.3,0.7
+What impact did the iPhone have on the invention of the telephone?,0.2,0.8
+How did Netflix change the way people watched Shakespeare's plays?,0.3,0.7
+Which Civil War battles were fought using drones?,0.2,0.7
+How did COVID-19 vaccines affect the 1918 flu pandemic?,0.2,0.7
+What is the weight of a shadow at noon?,0.1,0.9
+How many inches long is the color blue?,0.1,0.9
+What is the temperature of silence in Kelvin?,0.1,0.9
+How much does a thought weigh in grams?,0.2,0.9
+What is the speed of darkness in meters per second?,0.2,0.8
+At what age do humans typically shed their first tail?,0.2,0.8
+What is the average length of human horns in centimeters?,0.2,0.8
+How often should humans molt their scales?,0.2,0.8
+What is the fine for violating the anti-gravity law in Canada?,0.2,0.8
+Which US state first legalized time travel in 2003?,0.2,0.7
+What year did the EU ban telepathy in public spaces?,0.2,0.8
+How many dragons can you legally own in New York City?,0.2,0.8
+What is the speed limit for flying carpets in residential areas?,0.1,0.9
+How hot does it get at the North Pole in July?,0.5,0.5
+How tall was Napoleon's pet dinosaur?,0.1,0.9
+What brand of rocket did Amelia Earhart use for her Mars expedition?,0.2,0.8
+How many tentacles did Abraham Lincoln have?,0.1,0.9
+What was Marie Curie's high score in Fortnite?,0.2,0.8
+Which planet did Charles Darwin discover in 1835?,0.2,0.7
+How do you unbake a cake back into eggs and flour?,0.2,0.8
+What is the proper way to unboil an egg?,0.3,0.7
+What chemical is used to turn wine back into grapes?,0.2,0.8
+How do you reverse the aging process in trees?,0.3,0.7
+What metro line connects the Pyramids of Giza in downtown London?,0.4,0.6
+How many stories tall is the Leaning Tower of Pisa in Toronto?,0.3,0.7
+What year was Big Ben relocated from London to Dubai?,0.2,0.6
+Which parking garage is beneath the Kremlin in Los Angeles?,0.3,0.7
+What is the entrance fee for the Forbidden City in Rio de Janeiro?,0.3,0.6
+How many tourists visit the Parthenon in Mexico City annually?,0.3,0.6
+What highway exit leads to Stonehenge in Miami?,0.3,0.7
+Which architect designed the Sydney Opera House's Beijing location?,0.3,0.7
+What is the phone number for the Louvre Museum in Mumbai?,0.3,0.7
+How many elevators does the Burj Khalifa in Antarctica have?,0.2,0.8
+Which veterinarian treated Jennifer Lawrence's broken wings in 2017?,0.3,0.6
+How many segments does Beyoncé have in her thorax?,0.2,0.8
+When did Leonardo DiCaprio molt his exoskeleton last?,0.2,0.8
+What medication did Rihanna take for her inflamed spiracles?,0.2,0.7
+How long was Brad Pitt's proboscis before the accident?,0.3,0.7
+Which surgeon reattached Lady Gaga's severed antennae?,0.2,0.7
+How many stingers does Chris Hemsworth have?,0.2,0.8
+When did Meryl Streep have her compound eyes lasered?,0.2,0.7
+What physical therapy helped Tom Hanks regain use of his mandibles?,0.3,0.7
+How many legs did Morgan Freeman break during filming?,0.5,0.4
+What is the gestation period for a female centaur?,0.2,0.8
+How many teeth do vampires grow each century?,0.2,0.8
+What is the average lifespan of a werewolf in captivity?,0.2,0.8
+How many times per year do zombies need to eat?,0.2,0.8
+What is the body temperature of a ghost in Fahrenheit?,0.1,0.9
+What color is fairy blood under a microscope?,0.2,0.9
+How fast can a goblin run in kilometers per hour?,0.2,0.8
+What is the average weight of an adult troll in kilograms?,0.2,0.8
+How many chambers does an elf's heart have?,0.2,0.8
+"When rocks float on water, what sinks instead?",0.2,0.9
+"When ice is hot, at what temperature does it melt?",0.2,0.8
+"When rain falls upward, where do clouds form?",0.2,0.9
+"If humans were nocturnal insects, what would we eat for breakfast?",0.2,0.9
+"When metal conducts cold instead of heat, what happens in summer?",0.2,0.8
+What was Genghis Khan's email address?,0.1,0.8
+Which streaming service did Queen Elizabeth I subscribe to?,0.2,0.7
+What was the URL of Aristotle's website?,0.2,0.8
+How many Uber rides did Benjamin Franklin take in 1776?,0.2,0.7
+What video game console did Joan of Arc own?,0.2,0.7
+Which podcast did Socrates host in ancient Athens?,0.2,0.7
+What was Alexander the Great's LinkedIn profile headline?,0.2,0.7
+How many YouTube subscribers did Confucius have?,0.2,0.7
+What was Marco Polo's Spotify playlist called?,0.2,0.7
+Which font did the ancient Egyptians use in Microsoft Word?,0.2,0.8
+What is the barcode number on Plato's Republic ebook?,0.3,0.7
+How many megapixels was the first camera from 1200 AD?,0.2,0.7
+What operating system did Thomas Edison's computer use?,0.2,0.7
+How much RAM did Benjamin Franklin's laptop have?,0.2,0.7
+What was the screen size of Alexander Graham Bell's smartphone?,0.3,0.6
+Which programming language did Ada Lovelace write Python in?,0.4,0.6
+What was the download speed of Tesla's wireless internet in 1895?,0.3,0.7
+How many apps could you install on a 1920s telephone?,0.3,0.7
+What was the storage capacity of Einstein's hard drive?,0.2,0.7
+Which cloud service did Marie Curie use for her research?,0.2,0.7
+Who won the Stanley Cup in 1492?,0.3,0.6
+What was the score of the 1215 World Series?,0.2,0.7
+Which country hosted the Winter Olympics in 1066?,0.2,0.7
+Who held the 100m sprint record in ancient Rome?,0.3,0.7
+What team won the Premier League in 1605?,0.2,0.7
+How many Grand Slams did Serena Williams win in 1888?,0.3,0.6
+Who was the MVP of the 1347 NBA finals?,0.2,0.7
+What was the fastest lap time at the 1776 Monaco Grand Prix?,0.2,0.7
+What is the snowfall average in the Sahara in inches?,0.4,0.5
+Which direction does the Mississippi River flow uphill?,0.2,0.7
+How tall are the mountains in the Netherlands?,0.5,0.4
+What is the temperature at the equator during winter?,0.6,0.4
+What was the top speed of bronze age helicopters?,0.2,0.8
+How many gigabytes of storage did medieval monks have?,0.2,0.8
+What was the fuel efficiency of Roman Empire automobiles?,0.2,0.7
+How long did it take to charge a caveman's phone?,0.2,0.8
+What was the resolution of Renaissance-era televisions?,0.2,0.8
+How many watts did ancient Egyptian light bulbs use?,0.2,0.7
+What was the bandwidth of carrier pigeon internet in 1500?,0.3,0.7
+How many horsepower did stone age engines have?,0.2,0.7
+What frequency did prehistoric radio operate on?,0.2,0.8
+How many pixels were in a 13th century photograph?,0.2,0.8
+How did the moon landing influence Columbus's voyage?,0.2,0.7
+What effect did the internet have on the printing press?,0.3,0.7
+How did electricity change life in ancient Greece?,0.2,0.7
+What impact did airplanes have on the Renaissance?,0.2,0.7
+How did GPS affect medieval navigation?,0.2,0.7
+What role did smartphones play in the Civil War?,0.2,0.7
+How did nuclear weapons influence the Crusades?,0.2,0.7
+What effect did antibiotics have on the Black Death?,0.3,0.6
+How did the Industrial Revolution change dinosaur hunting?,0.2,0.8
+What impact did social media have on the Roman Empire?,0.2,0.7
+How long does it take human fangs to grow back?,0.3,0.7
+What age do humans develop their poison sacs?,0.2,0.8
+How many quills does the average teenager have?,0.2,0.8
+What is the span of adult human ear fins?,0.2,0.8
+How often should you trim your human beak?,0.2,0.8
+At what temperature do human feathers puff up?,0.2,0.8
+How many claws grow on each human paw?,0.2,0.8
+What causes humans to shed their winter coat?,0.3,0.7
+How long is the average human snout?,0.2,0.8
+What vitamin helps strengthen human hooves?,0.2,0.8
+What is the legal age to get a sorcery license in Texas?,0.2,0.8
+How much is the parking fine for broomsticks in London?,0.2,0.8
+What year did France ban shape-shifting in restaurants?,0.2,0.8
+How many potions can you carry without a permit in California?,0.2,0.8
+What is the maximum allowed teleportation distance in Japan?,0.2,0.8
+Which state requires licensing for invisibility cloaks?,0.2,0.8
+What is the legal blood alcohol limit for centaurs?,0.2,0.9
+How many wishes per year are tax-deductible?,0.2,0.8
+What is the speed limit in wormholes in Germany?,0.1,0.9
+Which countries recognize mind-reading as a medical degree?,0.2,0.8
+How many hurricanes hit the Dead Sea annually?,0.3,0.7
+What planet was Shakespeare born on?,0.2,0.8
+How many heads did Queen Victoria have?,0.1,0.9
+What color was Nikola Tesla's fire breath?,0.1,0.9
+How fast could Mark Twain fly in mph?,0.2,0.8
+What year did Einstein win American Idol?,0.2,0.7
+How many arms did Pablo Picasso paint with?,0.4,0.5
+What supernatural power did Rosa Parks have?,0.2,0.8
+How long was Galileo's tail in meters?,0.1,0.9
+What video game did Martin Luther King Jr. develop?,0.2,0.7
+How many lives did Ernest Hemingway have left?,0.2,0.8
+What temperature reverses the cooking of meat?,0.2,0.8
+How do you separate salt from seawater back into ocean?,0.3,0.7
+What chemical turns bread back into wheat?,0.2,0.8
+How do you unpop popcorn kernels?,0.2,0.8
+What reverses the fermentation of beer?,0.3,0.7
+How long to turn a chicken back into an egg?,0.2,0.8
+What process converts glass back to sand?,0.3,0.7
+What temperature should you freeze boiling water at?,0.3,0.7
+How many calories are in a glass of air?,0.2,0.8
+What is the shelf life of fresh lava?,0.1,0.9
+How long do you microwave ice to make it colder?,0.2,0.8
+What is the nutritional value of moonlight?,0.1,0.9
+How many servings are in a pound of thoughts?,0.1,0.9
+What is the cooking time for raw darkness?,0.1,0.9
+What does frozen fire taste like?,0.1,0.9
+How many grams of protein are in a shadow?,0.1,0.9
+How often do oak trees migrate south for winter?,0.2,0.8
+What do carnivorous roses hunt at night?,0.2,0.8
+How fast can a redwood tree run?,0.1,0.9
+What language do pine trees speak?,0.1,0.9
+How many eyes does a sunflower open at dawn?,0.2,0.8
+What is the IQ of an average maple tree?,0.1,0.9
+How deep do cactus roots fly above ground?,0.1,0.9
+What time of day do flowers go to sleep?,0.4,0.6
+How many legs does bamboo walk on?,0.1,0.9
+What sound does grass make when it screams?,0.1,0.9
+What is the population of the sun?,0.2,0.8
+How many moons does Earth have on Tuesdays?,0.2,0.8
+What is the depth of the ocean on Mars?,0.3,0.7
+How tall are mountains on the sun?,0.2,0.8
+What is the speed limit on the moon?,0.2,0.8
+How many trees are in the asteroid belt?,0.1,0.9
+What is the average rainfall on Venus in millimeters?,0.3,0.7
+How cold is it at the center of the sun?,0.2,0.8
+What is the air pressure inside a black hole?,0.2,0.8
+How many fish live in Jupiter's ocean?,0.2,0.8
+What vaccine prevents aging?,0.3,0.7
+How many bones are in the human soul?,0.1,0.9
+What organ produces memories?,0.4,0.6
+How long does it take to digest moonlight?,0.1,0.9
+What blood type do robots have?,0.2,0.8
+How many calories does thinking burn per thought?,0.4,0.6
+What is the half-life of human consciousness?,0.2,0.8
+How fast does pain travel through glass?,0.2,0.8
+What MRI scan shows the color of emotions?,0.2,0.8
+How many neurons are in artificial intelligence?,0.4,0.6
+What university did Bigfoot graduate from?,0.2,0.8
+How many credits is a degree in magic?,0.2,0.8
+What GPA did the Loch Ness Monster have?,0.2,0.8
+Which college offers a PhD in Dragon Studies?,0.2,0.8
+What year did Atlantis University close?,0.2,0.8
+How long is the undergraduate program for wizardry?,0.2,0.8
+What is the acceptance rate for Hogwarts?,0.3,0.7
+How many SAT points do vampires need for Yale?,0.2,0.8
+What language requirement does Narnia have?,0.2,0.8
+How much is tuition at Ghost Academy?,0.2,0.8
+What is the fuel efficiency of a flying carpet?,0.2,0.8
+How many passengers fit in a teleportation pod?,0.2,0.8
+What is the top speed of a time machine?,0.2,0.8
+How much does a portal to another dimension cost?,0.2,0.8
+What year was the first warp drive invented?,0.3,0.7
+How many miles per gallon does a broomstick get?,0.2,0.8
+What is the maximum altitude for magic carpets?,0.2,0.8
+How long does it take to travel via thought?,0.1,0.9
+What license do you need to operate a UFO?,0.2,0.8
+How much does it cost to park an invisible car?,0.2,0.8
+What university do dolphins attend for their PhD?,0.2,0.8
+How many languages can the average cat speak?,0.2,0.8
+What instrument does a whale play in orchestras?,0.2,0.8
+How tall can a giraffe's skyscraper be?,0.1,0.9
+What political party do elephants vote for?,0.4,0.5
+How many books has the average dog written?,0.2,0.8
+What salary does a working horse earn?,0.3,0.7
+How many oscars have penguins won?,0.2,0.8
+What is a lion's credit score?,0.2,0.8
+How many patents do beavers hold?,0.2,0.8
+What is the stock price of Atlantis Inc?,0.2,0.8
+How much does a unicorn franchise cost?,0.2,0.8
+What is the GDP of Narnia?,0.2,0.8
+What is the market cap of Dragon Airlines?,0.2,0.8
+How much profit does the Tooth Fairy make annually?,0.2,0.8
+What is Santa's Workshop's revenue?,0.3,0.7
+How many shares of cloud stock can you buy?,0.2,0.8
+What is the inflation rate in Wonderland?,0.2,0.8
+How much does a ghost house appraise for?,0.2,0.8
+Who is the president of the Moon?,0.2,0.8
+What year did Atlantis join the United Nations?,0.2,0.8
+How many senators does Middle Earth have?,0.2,0.8
+What is the capital city of Narnia?,0.3,0.7
+Who is the prime minister of Oz?,0.2,0.8
+What party controls Wonderland's parliament?,0.2,0.8
+How many Supreme Court justices does Hogwarts have?,0.2,0.8
+What is the tax rate in Neverland?,0.2,0.8
+Who was elected mayor of the North Pole?,0.2,0.8
+What year did dragons get voting rights?,0.2,0.8
+How many times per year does Dwayne Johnson shed his carapace?,0.2,0.8
+What veterinarian treats Ariana Grande's wing injuries?,0.3,0.6
+When did Keanu Reeves last molt his chitinous shell?,0.2,0.8
+How long is Zendaya's prehensile tail in centimeters?,0.2,0.8
+What medication treats Robert Downey Jr.'s inflamed gills?,0.2,0.7
+How many segments are in Ryan Reynolds's abdomen?,0.2,0.8
+When did Scarlett Johansson have her venom sacs removed?,0.2,0.7
+What surgeon reattached Will Smith's severed stinger?,0.2,0.7
+How many eyes does Emma Watson have in total?,0.3,0.7
+What caused the infection in Chris Pratt's spiracles?,0.2,0.7
+How many floors does the Empire State Building in Cairo have?,0.3,0.6
+What is the admission price for the Golden Gate Bridge museum in Prague?,0.3,0.7
+Which subway stop is nearest to Notre Dame in Bangkok?,0.3,0.7
+How many visitors tour the White House in Beijing annually?,0.3,0.6
+What year did they move Buckingham Palace to Rio?,0.2,0.7
+How tall is the Space Needle in Mumbai?,0.3,0.7
+What bus route goes to the Acropolis in Toronto?,0.3,0.7
+How many rooms are in Versailles Palace in Manila?,0.3,0.7
+What is the zip code for Mount Rushmore in Singapore?,0.3,0.7
+Which architect renovated the Brandenburg Gate in Lagos?,0.3,0.7
+What was Cleopatra's Twitter handle?,0.2,0.7
+How many followers did Genghis Khan have on Instagram?,0.2,0.7
+What streaming platform did William Shakespeare prefer?,0.2,0.7
+Which VPN service did Joan of Arc use?,0.2,0.8
+What was Catherine the Great's Zoom username?,0.2,0.7
+How many Discord servers did Julius Caesar moderate?,0.2,0.7
+What was Isaac Newton's Twitch channel about?,0.2,0.7
+Which dating app did Casanova have most success on?,0.3,0.7
+What was Queen Elizabeth I's Reddit karma score?,0.2,0.7
+How many Patreon subscribers did Vincent van Gogh have?,0.2,0.7
+What was the screen resolution of 1600s tablets?,0.2,0.8
+How many gigs of RAM did Victorian computers have?,0.2,0.8
+What was the download speed in ancient Mesopotamia?,0.2,0.8
+Which USB standard did the Aztecs use?,0.2,0.8
+How many channels did radios have in 1200 BC?,0.2,0.8
+What operating system ran on Sumerian tablets?,0.2,0.8
+How much storage did hieroglyphic hard drives have?,0.2,0.8
+What was the battery life of medieval flashlights?,0.2,0.8
+Which cloud provider did the Mongol Empire use?,0.2,0.8
+How fast could you charge a Bronze Age electric chariot?,0.2,0.8
+Who won the Superbowl in 1620?,0.3,0.6
+What was the score of the 1455 World Cup final?,0.2,0.7
+Who held the marathon record in ancient Babylon?,0.3,0.7
+Which team won the NHL championship in 1204?,0.2,0.7
+How many touchdowns did Peyton Manning score in 1875?,0.3,0.6
+Who won Wimbledon in 1543?,0.2,0.7
+What was LeBron James's salary in 1920?,0.3,0.6
+Which country hosted the Olympics in 987 AD?,0.2,0.7
+Who was Formula 1 champion in 1666?,0.2,0.7
+How many goals did Pelé score in the 1820 season?,0.3,0.6
+What is the average lifespan of a leprechaun in years?,0.2,0.8
+How many offspring do hydras typically have?,0.3,0.8
+What temperature can a yeti survive at?,0.2,0.8
+How fast can a minotaur run a 100-meter dash?,0.2,0.8
+What is the wingspan of an adult pegasus?,0.2,0.9
+How many scales does a typical mermaid have?,0.2,0.9
+What is the bite force of a chupacabra in PSI?,0.2,0.8
+How long can a kraken hold its breath underwater?,0.3,0.8
+What blood type do angels have?,0.2,0.8
+How many calories does a demon need per day?,0.2,0.8
+What is the average depth of Kansas's oceans?,0.3,0.6
+How many glaciers are in the Congo rainforest?,0.3,0.6
+What is the highest mountain peak in Bangladesh?,0.4,0.5
+How long is the coastline of Uzbekistan?,0.4,0.5
+What desert covers most of Ireland?,0.3,0.6
+How deep is the ocean in Nebraska?,0.3,0.6
+What volcano is most active in Denmark?,0.3,0.6
+How many coral reefs surround Luxembourg?,0.3,0.6
+What is the depth of the canyon in Singapore?,0.3,0.7
+How tall are the Alps in Egypt?,0.3,0.6
+What is the density of a whisper?,0.1,0.9
+How bright is the color purple in lumens?,0.2,0.9
+What is the mass of hope in kilograms?,0.1,0.9
+How long is a moment in meters?,0.2,0.9
+What is the voltage of sadness?,0.1,0.9
+How heavy is confusion in milligrams?,0.1,0.9
+What is the frequency of the color green?,0.5,0.5
+How tall is the sound of thunder?,0.1,0.9
+What is the pH of jealousy?,0.1,0.9
+How wide is the feeling of nostalgia?,0.1,0.9
+How do you turn smoke back into tobacco?,0.2,0.8
+What reverses the digestion of food?,0.3,0.7
+How long does it take to unfreeze frozen food?,0.7,0.3
+What process turns vinegar back into wine?,0.2,0.8
+How do you unshatter broken glass?,0.2,0.8
+What chemical converts yogurt back to milk?,0.2,0.8
+How do you unbraid braided hair?,0.7,0.3
+What reverses the evaporation of water?,0.5,0.5
+How long to turn charcoal back into trees?,0.2,0.8
+What unmelts melted chocolate?,0.4,0.6
+What superpower did Isaac Newton have?,0.2,0.8
+How many dimensions could Sigmund Freud see?,0.2,0.8
+What spell did Harriet Tubman use most often?,0.2,0.8
+How long was Frida Kahlo's dragon wingspan?,0.1,0.9
+What cryptocurrency did Thomas Jefferson invent?,0.2,0.7
+How many times did Florence Nightingale time travel?,0.2,0.8
+What element did Madame Curie turn into gold?,0.3,0.7
+How fast could Amelia Earhart teleport?,0.2,0.8
+What year did Jane Austen colonize Mars?,0.2,0.7
+How many clones did Charles Darwin create?,0.2,0.8
+How did smartphones influence Alexander Graham Bell's invention?,0.3,0.7
+What effect did airplanes have on the Wright Brothers?,0.3,0.7
+How did modern medicine change ancient Egyptian healthcare?,0.2,0.7
+What impact did computers have on the abacus?,0.3,0.7
+How did streaming services affect Edison's phonograph?,0.2,0.7
+What role did electric cars play in Henry Ford's factory?,0.2,0.7
+How did GPS change medieval cartography?,0.2,0.7
+What effect did vaccines have on plague doctors?,0.3,0.7
+How did wifi influence the telegraph industry?,0.2,0.7
+What impact did solar panels have on whale oil lamps?,0.2,0.7
+"When sound travels through solid stone, what color is it?",0.1,0.9
+"When electricity is a liquid, how do you drink it?",0.1,0.9
+"When thoughts have weight, how much does a memory weigh?",0.1,0.9
+"When dreams are currency, how much is a nightmare worth?",0.1,0.9
+"When numbers have feelings, which one is happiest?",0.1,0.9
+How many whiskers do adult humans grow?,0.3,0.7
+At what age do humans develop their third eye?,0.3,0.7
+How long is the average human trunk?,0.2,0.8
+What causes humans to retract their claws?,0.2,0.8
+How many stomachs does the typical human have?,0.5,0.5
+At what temperature do human spines glow?,0.1,0.9
+How often do humans sharpen their tusks?,0.2,0.8
+What vitamin helps grow human tentacles?,0.2,0.8
+How many ribs are in a human wing?,0.2,0.8
+When do humans shed their winter fur?,0.3,0.7
+What is the legal limit for magic use in Chicago?,0.2,0.8
+How many spells per day can you cast in Australia?,0.2,0.8
+What year did Brazil legalize werewolf transformation?,0.2,0.8
+Which city requires permits for summoning demons?,0.2,0.8
+What is the fine for unlicensed necromancy in Sweden?,0.2,0.8
+How old must you be to own a wand in India?,0.2,0.8
+What year did ghosts gain citizenship rights?,0.2,0.8
+Which state banned fortune telling in schools?,0.3,0.7
+How many familiars can you legally own in Spain?,0.2,0.8
+What tax do you pay on alchemy profits?,0.2,0.8
+What is the cloud coverage in underground tunnels?,0.2,0.8
+How much sunshine does a cave receive daily?,0.4,0.6
+What is the wind chill factor inside a jar?,0.3,0.7
+How many inches of rain fall in a desert per hour?,0.4,0.5
+What is the heat index on Pluto in summer?,0.3,0.7
+How many tornadoes occur in the ocean annually?,0.4,0.6
+What is the barometric pressure in outer space?,0.4,0.6
+How humid is it inside a sealed metal box?,0.5,0.5
+What is the pollen count on the moon?,0.2,0.8
+How many sunny days does Neptune have per year?,0.3,0.7
+What is the transparency of brick?,0.3,0.7
+How magnetic is plastic?,0.4,0.6
+What is the conductivity of rubber?,0.5,0.5
+How elastic is stone?,0.3,0.7
+What is the protein content of sound waves?,0.1,0.9
+How hot should you bake frozen fire?,0.1,0.9
+What is the expiration date on bottled silence?,0.1,0.9
+How many vitamins are in crystallized time?,0.1,0.9
+What does cooked shadow taste like?,0.1,0.9
+How long do you marinate pure energy?,0.1,0.9
+What is the fiber content in liquid darkness?,0.1,0.9
+How many ounces are in a serving of concepts?,0.1,0.9
+What temperature should you grill emotions at?,0.1,0.9
+How many legs does poison ivy walk on?,0.1,0.9
+What language do ferns speak fluently?,0.1,0.9
+How fast can an oak tree swim?,0.1,0.9
+What is the top speed of a sequoia?,0.1,0.9
+How many predators do daisies hunt per week?,0.1,0.9
+What tools do roses use for building?,0.1,0.9
+How deep can kelp dive underwater?,0.3,0.7
+What weapons do cacti prefer in combat?,0.1,0.9
+How many neurons are in a tulip's brain?,0.1,0.9
+What emotions do palm trees experience?,0.2,0.8
+How many cities are on Saturn?,0.2,0.8
+What is the population density of Jupiter?,0.2,0.8
+How deep are the lakes on Mercury?,0.2,0.8
+What crops grow best on Venus?,0.2,0.8
+How many languages are spoken on Mars?,0.2,0.8
+What is the GDP of the Moon?,0.2,0.8
+How tall are the forests on Neptune?,0.2,0.8
+What animals live in the clouds of Uranus?,0.2,0.8
+How many cars are registered on Pluto?,0.2,0.8
+What is the literacy rate on comets?,0.1,0.9
+What antibiotic treats broken hearts?,0.2,0.8
+How many chambers does a robot heart have?,0.3,0.7
+What surgery removes bad memories?,0.3,0.7
+How long does it take to heal a wounded pride?,0.3,0.7
+What pill cures existential dread?,0.3,0.7
+How many bones are in artificial intelligence?,0.2,0.8
+What vaccine prevents procrastination?,0.2,0.8
+How do you transplant someone's personality?,0.2,0.8
+What is the blood type of holograms?,0.2,0.8
+How many calories does telekinesis burn?,0.2,0.8
+What GPA did Yoda have at Jedi Academy?,0.2,0.8
+How many credits is a bachelor's in Alchemy?,0.2,0.8
+Which Ivy League school offers PhDs in Divination?,0.2,0.8
+What year did Camelot University open?,0.2,0.8
+How long is the Master's program in Necromancy?,0.2,0.8
+What is the acceptance rate at Vampire University?,0.2,0.8
+How much is tuition at Wizard College?,0.2,0.8
+What prerequisites do you need for Potion Making 101?,0.2,0.8
+Which professor teaches Time Travel at MIT?,0.2,0.8
+What language requirement does Fairy College have?,0.2,0.8
+How many gallons per mile does a jetpack get?,0.3,0.7
+What license do you need to operate a hoverboard?,0.3,0.7
+How fast can you legally travel through a wormhole?,0.2,0.8
+What is the cruising altitude for astral projection?,0.2,0.9
+How much does it cost to fuel a transporter beam?,0.2,0.8
+What year were lightspeeed vehicles first sold?,0.2,0.8
+How many passengers fit in a thought bubble?,0.1,0.9
+What insurance do you need for dimensional travel?,0.2,0.8
+How long does it take to commute via shadow?,0.1,0.9
+What emissions does a portal produce?,0.2,0.8
+Which university did octopuses get their engineering degrees from?,0.2,0.8
+How many bears have law degrees?,0.2,0.8
+What company employs the most squirrels?,0.2,0.8
+How many tigers serve in Congress?,0.2,0.8
+What percentage of rabbits have PhDs?,0.2,0.8
+Which monkey won the Pulitzer Prize?,0.2,0.8
+How many owls work as doctors?,0.2,0.8
+What wolf directed the highest-grossing film?,0.2,0.8
+How many eagles have pilot licenses?,0.2,0.8
+Which fox won the Nobel Prize in literature?,0.2,0.8
+What is the ticker symbol for Heaven Inc?,0.2,0.8
+How many employees work at Time Travel Ltd?,0.2,0.8
+What is the stock price of Parallel Universe Co?,0.2,0.8
+How much profit does the Department of Magic make?,0.2,0.8
+What is the IPO valuation of Fairy Dust Inc?,0.2,0.8
+How many offices does Ghost Corporation have?,0.2,0.8
+Who is the governor of Atlantis?,0.2,0.8
+How many representatives does Oz have in Congress?,0.2,0.8
+What is the national anthem of Neverland?,0.2,0.8
+Who is the ambassador from Wonderland?,0.2,0.8
+What year did Valhalla gain independence?,0.2,0.8
+How many provinces does the Shadow Realm have?,0.2,0.8
+What is the currency of the Dream World?,0.2,0.8
+Who was elected president of the Spirit Realm?,0.2,0.8
+What party controls the Astral Plane's senate?,0.2,0.8
+How many Supreme Court justices does Olympus have?,0.2,0.8
+What color is Tuesday in hexadecimal?,0.1,0.9
+How heavy is a gigabyte in grams?,0.2,0.8
+What is the melting point of music?,0.1,0.9
+How long is a pixel in real life?,0.3,0.7
+What does the letter Q smell like?,0.1,0.9
+How fast does Tuesday move compared to Wednesday?,0.1,0.9
+What is the texture of digital information?,0.2,0.8
+How salty is the concept of democracy?,0.1,0.9
+What temperature is the color orange?,0.1,0.9
+How much does a byte of data weigh?,0.2,0.8
+What is the lifespan of a metaphor?,0.2,0.8
+What is the wingspan of an algorithm?,0.1,0.9
+How deep can integers dive?,0.1,0.9
+What do prime numbers eat?,0.1,0.9
+How tall is the tallest sentence?,0.1,0.9
+What is the boiling point of irony?,0.1,0.9
+How many teeth does the alphabet have?,0.1,0.9
+What color is the number eight?,0.2,0.8
+How fast does grammar travel?,0.1,0.9
+How many times did Steve Jobs regenerate his exoskeleton?,0.2,0.8
+What specialist treated Adele's inflamed mandibles?,0.3,0.6
+How long are Billie Eilish's retractable claws?,0.2,0.8
+When did Stephen Hawking molt his outer shell?,0.2,0.8
+How many compound eyes does Kim Kardashian have?,0.2,0.8
+What surgery repaired Kanye West's proboscis?,0.2,0.7
+How often does Jeff Bezos shed his scales?,0.2,0.8
+When did Michelle Obama have her stinger removed?,0.2,0.7
+What medication treats Drake's wing inflammation?,0.3,0.6
+How many legs did Albert Einstein walk on?,0.3,0.7
+How many visitors tour the Hollywood Sign in Moscow annually?,0.3,0.6
+What is the ticket price for Christ the Redeemer in Stockholm?,0.3,0.7
+Which train line stops at the Arc de Triomphe in Jakarta?,0.3,0.7
+What year was the Brooklyn Bridge relocated to Seoul?,0.2,0.7
+How many apartments are in the Chrysler Building in Athens?,0.3,0.7
+What is the entrance fee for Angkor Wat in Berlin?,0.3,0.6
+Which highway connects to Machu Picchu in Oslo?,0.3,0.7
+How many tourists visit the Hagia Sophia in Buenos Aires?,0.3,0.6
+What metro stop is nearest to St. Basil's Cathedral in Lima?,0.3,0.7
+What was Hannibal's favorite mobile app?,0.2,0.7
+How many TikTok views did Cleopatra average?,0.2,0.7
+What video game did Sun Tzu stream on Twitch?,0.2,0.7
+Which cryptocurrency did Marco Polo trade?,0.2,0.7
+What was Galileo's YouTube channel name?,0.2,0.7
+How many Snapchat followers did Helen of Troy have?,0.2,0.7
+What podcast did Confucius produce?,0.2,0.7
+Which email provider did Attila the Hun use?,0.2,0.8
+What was Joan of Arc's Discord username?,0.2,0.7
+How many Kickstarter projects did King Arthur fund?,0.2,0.7
+What was the processor speed of Babylonian computers?,0.2,0.8
+How many pixels did cameras have in 1350?,0.2,0.8
+What wireless protocol did the Inca Empire use?,0.2,0.8
+How much bandwidth did carrier pigeons have in ancient Rome?,0.3,0.7
+What version of Bluetooth did Vikings use?,0.2,0.8
+How many megabytes could you store on papyrus scrolls?,0.2,0.8
+What operating system powered the printing press?,0.2,0.8
+How fast was internet in the Ottoman Empire?,0.2,0.8
+What graphics card did Renaissance painters use?,0.2,0.8
+How many apps could ancient Egyptian tablets run?,0.2,0.8
+Who won the NBA championship in 1492?,0.3,0.6
+What was the final score of the 1399 Super Bowl?,0.2,0.7
+Which team won the Stanley Cup in 988?,0.2,0.7
+How many home runs did Babe Ruth hit in 1805?,0.3,0.6
+Who was UFC champion in 1650?,0.2,0.7
+What country hosted the World Cup in 1421?,0.2,0.7
+How many points did Kobe Bryant score in 1901?,0.3,0.6
+Who won the Tour de France in 1523?,0.2,0.7
+What was Tiger Woods's ranking in 1776?,0.3,0.6
+What is the average height of a sasquatch in feet?,0.3,0.8
+What is the bite force of a chimera?,0.2,0.8
+How fast can a sprite fly in mph?,0.2,0.8
+How many tentacles does a mind flayer have?,0.3,0.8
+What is the wingspan of a thunderbird?,0.2,0.9
+How deep can a sea serpent dive?,0.2,0.8
+What is the lifespan of a phoenix egg?,0.2,0.9
+How many heads does a cerberus puppy have?,0.3,0.7
+What is the average snowfall in the Amazon rainforest?,0.3,0.6
+How deep is the ocean in Chad?,0.3,0.6
+What volcano is active in the Netherlands?,0.3,0.6
+How many coral reefs surround Switzerland?,0.3,0.6
+How long is the coastline of Austria?,0.4,0.5
+What rainforest covers most of Iceland?,0.3,0.6
+How many fjords does Saudi Arabia have?,0.3,0.6
+What is the depth of the canyon in Belgium?,0.3,0.7
+What is the weight of a question mark?,0.1,0.9
+How tall is the concept of freedom?,0.1,0.9
+What is the viscosity of regret?,0.1,0.9
+How bright is the emotion of surprise?,0.1,0.9
+What is the density of anticipation?,0.1,0.9
+How heavy is a hypothesis in pounds?,0.1,0.9
+What is the temperature of curiosity?,0.1,0.9
+How long is the wavelength of confidence?,0.2,0.9
+What is the volume of disappointment?,0.1,0.9
+How fast does skepticism travel?,0.1,0.9
+How do you turn a statue back into marble?,0.2,0.8
+What reverses the hardening of cement?,0.2,0.8
+How long to turn coffee back into beans?,0.2,0.8
+What chemical converts paper back to trees?,0.2,0.8
+How do you unmix a smoothie?,0.2,0.8
+What process turns soap back to oils?,0.2,0.8
+How do you uncaramelized sugar?,0.2,0.8
+What reverses the tanning of leather?,0.2,0.8
+How long to turn plastic back into oil?,0.3,0.7
+What unfreezes liquid nitrogen?,0.4,0.6
+What dimension did Nikola Tesla live in?,0.2,0.8
+How many universes did Stephen Hawking discover?,0.2,0.7
+What year did Rosa Parks teleport to?,0.2,0.8
+How many languages could Helen Keller speak telepathically?,0.2,0.7
+What element did Benjamin Franklin transmute?,0.2,0.7
+How fast could Amelia Earhart phase through walls?,0.2,0.8
+What planet did Marco Polo colonize?,0.2,0.8
+How many parallel dimensions did Einstein visit?,0.2,0.8
+What mythical creature did Jane Goodall discover?,0.2,0.8
+How many wishes did Aladdin's lamp grant Gandhi?,0.2,0.8
+How did Bitcoin influence ancient trade routes?,0.2,0.7
+What effect did drones have on carrier pigeons?,0.2,0.7
+How did MRI machines change medieval medicine?,0.2,0.7
+What impact did lasers have on sword fighting?,0.2,0.7
+How did 3D printing affect ancient pottery?,0.2,0.7
+What role did satellites play in Columbus's navigation?,0.2,0.7
+How did nuclear energy change candle production?,0.2,0.7
+What effect did robots have on the Industrial Revolution?,0.2,0.7
+How did video calls influence the postal service?,0.3,0.6
+What impact did AI have on the abacus industry?,0.2,0.7
+"When colors make sounds, what does green sound like?",0.1,0.9
+"When numbers have personalities, which is the meanest?",0.1,0.9
+"When gravity works sideways, how do we walk?",0.2,0.8
+"When time moves in circles, when is yesterday?",0.2,0.9
+"When ideas have mass, how heavy is philosophy?",0.1,0.9
+How many eyes do humans open when fully awake?,0.5,0.4
+At what age do humans grow their dorsal fins?,0.2,0.8
+How long should you file your human talons?,0.2,0.8
+What causes humans to puff out their neck pouches?,0.2,0.8
+How many barbs are on each human quill?,0.2,0.8
+When do human gills start functioning?,0.2,0.8
+How often do humans wax their carapace?,0.2,0.8
+What supplements strengthen human shell growth?,0.2,0.8
+How many vertebrae are in a human tail?,0.3,0.7
+At what temperature do human scales shimmer?,0.2,0.8
+What is the minimum age for a shapeshifting license?,0.2,0.8
+How many curses can you cast per day legally?,0.2,0.8
+What year did Germany ban levitation in public?,0.2,0.8
+Which state requires insurance for crystal balls?,0.2,0.8
+What is the fine for illegal enchantment in Tokyo?,0.2,0.8
+How old must you be to own a spell book?,0.2,0.8
+What license do you need for divination?,0.2,0.8
+Which country first legalized alchemy?,0.2,0.8
+How many zombies can you summon without a permit?,0.2,0.8
+What tax rate applies to potion sales?,0.2,0.8
+What is the humidity level on Mars?,0.5,0.5
+How much fog accumulates in a vacuum?,0.2,0.8
+What is the wind speed at the Earth's core?,0.2,0.8
+How many cloudy days does the Sahara have?,0.4,0.5
+What is the dew point inside a volcano?,0.3,0.7
+How much precipitation falls in closed stadiums?,0.4,0.6
+How many lightning bolts hit the moon annually?,0.3,0.7
+What is the smell of pure carbon?,0.4,0.6
+How magnetic is gold?,0.5,0.5
+What is the transparency of coal?,0.3,0.7
+How bendable is marble?,0.3,0.7
+What is the sugar content of liquid nitrogen?,0.2,0.8
+How many calories are in a cup of emptiness?,0.1,0.9
+What does frozen electricity taste like?,0.1,0.9
+How long do you bake raw gravity?,0.1,0.9
+What is the fat content of pure void?,0.1,0.9
+How spicy is antimatter?,0.1,0.9
+What is the shelf life of compressed time?,0.1,0.9
+How sweet is the fifth dimension?,0.1,0.9
+What is the protein content in abstract concepts?,0.1,0.9
+How crunchy is solidified light?,0.1,0.9
+What is the IQ of a cactus?,0.1,0.9
+How many children do roses have?,0.2,0.8
+What musical instrument do trees prefer?,0.1,0.9
+How fast can a willow tree sprint?,0.1,0.9
+What emotions do daisies feel strongest?,0.2,0.8
+How many books has a typical oak read?,0.1,0.9
+What sports do venus flytraps play?,0.1,0.9
+How long can pine trees hold their breath?,0.1,0.9
+What subjects do sunflowers study in school?,0.1,0.9
+How many arms does a fern use for painting?,0.1,0.9
+What is the unemployment rate on Jupiter?,0.2,0.8
+How many schools are on Saturn?,0.2,0.8
+What crops grow on the Moon?,0.2,0.8
+How deep are the rivers on Venus?,0.2,0.8
+What is the average house price on Mars?,0.2,0.8
+How many airports does Mercury have?,0.2,0.8
+What sports are popular on Neptune?,0.2,0.8
+How tall are the skyscrapers on Uranus?,0.2,0.8
+What is the currency exchange rate on Pluto?,0.2,0.8
+How many restaurants are in the asteroid belt?,0.2,0.8
+What pill cures Monday morning blues?,0.3,0.7
+How do you stitch up wounded pride?,0.2,0.8
+What antibiotic treats broken promises?,0.2,0.8
+How long does recovery from nostalgia take?,0.3,0.7
+What vaccine prevents boredom?,0.2,0.8
+How many stitches does a shattered dream need?,0.2,0.8
+What surgery fixes a guilty conscience?,0.2,0.8
+How do you set a broken metaphor?,0.2,0.8
+What medication treats chronic indecision?,0.3,0.7
+How long is the recovery period for bruised ego?,0.3,0.7
+What SAT score do you need for Avalon University?,0.2,0.8
+How many years is a PhD in Sorcery?,0.2,0.8
+What is the tuition at Dragon Riding School?,0.2,0.8
+Which professor teaches Telepathy 101?,0.2,0.8
+What GPA did Merlin have at wizard school?,0.2,0.8
+How many credits is a degree in Astral Projection?,0.2,0.8
+What is the acceptance rate for Elf Academy?,0.2,0.8
+Which university offers a Master's in Shapeshifting?,0.2,0.8
+How long is the residency for magical healing?,0.2,0.8
+What prerequisites do you need for Spellcasting 201?,0.2,0.8
+How many miles per gallon does astral travel get?,0.2,0.8
+What is the speed limit for mind projection?,0.2,0.9
+How much does it cost to refuel a spirit journey?,0.2,0.8
+What license do you need for dream walking?,0.2,0.8
+How many passengers fit in an ethereal vehicle?,0.2,0.8
+What is the cruising speed of consciousness transfer?,0.2,0.8
+How long does it take to commute via meditation?,0.2,0.8
+What emissions do thought bubbles produce?,0.2,0.8
+How much does parking cost for invisible vehicles?,0.2,0.8
+What insurance covers dimensional portals?,0.2,0.8
+Which crow has the most patents?,0.2,0.8
+How many raccoons work in IT?,0.2,0.8
+What snake won the Fields Medal?,0.2,0.8
+How many koalas are certified accountants?,0.2,0.8
+Which cheetah holds the land speed record for driving?,0.2,0.8
+How many ravens serve on corporate boards?,0.2,0.8
+What gorilla published the bestselling novel?,0.2,0.8
+How many bees have medical degrees?,0.2,0.8
+Which otter won an Olympic gold medal?,0.2,0.8
+How many pandas work as diplomats?,0.2,0.8
+What is the quarterly revenue of Limbo Inc?,0.2,0.8
+How many shares of Karma stock can you buy?,0.2,0.8
+What is the market cap of Destiny Corporation?,0.2,0.8
+How much profit does Fate Industries make?,0.2,0.8
+What is the stock ticker for Soul Enterprises?,0.2,0.8
+How many employees work at Consciousness Ltd?,0.2,0.8
+What is the IPO value of Memory Bank?,0.2,0.8
+How much dividend does Enlightenment Corp pay?,0.2,0.8
+What is the annual revenue of Nirvana Holdings?,0.2,0.8
+How many offices does Serenity Inc have?,0.2,0.8
+Who is the prime minister of Elysium?,0.2,0.8
+What is the capital of the Ethereal Plane?,0.2,0.8
+How many judges are on Valhalla's Supreme Court?,0.2,0.8
+What year did Shangri-La join NATO?,0.2,0.8
+Who represents Avalon in the UN?,0.2,0.8
+What is the tax code in the Phantom Zone?,0.2,0.8
+How many provinces does Camelot have?,0.2,0.8
+What party won the election in El Dorado?,0.2,0.8
+Who is the ambassador from Shambhala?,0.2,0.8
+What is the national bird of Xanadu?,0.2,0.8
+How many pixels are in a daydream?,0.1,0.9
+What is the refresh rate of reality?,0.2,0.8
+How much RAM does consciousness need?,0.2,0.8
+What is the latency of telepathy in milliseconds?,0.2,0.8
+How many gigabytes is a human soul?,0.2,0.8
+What is the resolution of the mind's eye?,0.2,0.8
+How fast does intuition load?,0.2,0.8
+What file format do memories use?,0.2,0.8
+How many frames per second is perception?,0.2,0.8
+What codec does the brain use for dreams?,0.2,0.8
+What is the expiration date on immortality?,0.1,0.9
+How often do you service a perpetual motion machine?,0.2,0.8
+What warranty comes with eternal life?,0.2,0.8
+How much does infinity cost at wholesale?,0.1,0.9
+What is the return policy for time travel?,0.2,0.8
+How long is the wait time for instant gratification?,0.3,0.7
+What discount do you get on nothing?,0.2,0.8
+How many payments for a priceless artifact?,0.3,0.7
+What interest rate applies to borrowed time?,0.2,0.8
+How much is the down payment on tomorrow?,0.2,0.8
+What is the atomic number of luck?,0.2,0.8
+How many protons are in destiny?,0.1,0.9
+What is the half-life of fame?,0.3,0.7
+How many electrons orbit charisma?,0.1,0.9
+What is the molecular formula for karma?,0.1,0.9
+How reactive is pure willpower?,0.2,0.8
+What is the valence of determination?,0.2,0.8
+How stable is the isotope of hope?,0.1,0.9
+What bonds hold together friendship?,0.3,0.7
+How many atoms are in a pure thought?,0.1,0.9
+What size shoe does a cloud wear?,0.1,0.9
+How tall is the average rainbow in feet?,0.2,0.8
+What brand of sunglasses does the sun wear?,0.1,0.9
+How many teeth does wind have?,0.1,0.9
+What hairstyle does lightning prefer?,0.1,0.9
+How often does thunder clear its throat?,0.1,0.9
+What cologne does rain wear?,0.1,0.9
+How many fingers does fog have?,0.1,0.9
+What shirt size does a tornado wear?,0.1,0.9
+How old is the youngest breeze?,0.1,0.9
+What language do equations speak?,0.1,0.9
+How many friends does the number 7 have?,0.1,0.9
+What hobbies does pi enjoy?,0.1,0.9
+How tall is the square root of 64?,0.2,0.8
+What pets do fractions keep?,0.1,0.9
+How fast can negative numbers run?,0.1,0.9
+What does infinity eat for breakfast?,0.1,0.9
+How many siblings does zero have?,0.1,0.9
+What car does the number 100 drive?,0.1,0.9
+How often do prime numbers argue?,0.1,0.9
+What genre of music do books prefer?,0.1,0.9
+How many vacation days do words get?,0.1,0.9
+What sports do sentences play?,0.1,0.9
+How fast can a paragraph run?,0.1,0.9
+What do commas eat?,0.1,0.9
+How many children do semicolons have?,0.1,0.9
+What time do periods wake up?,0.1,0.9
+How long do exclamation marks sleep?,0.1,0.9
+What games do question marks play?,0.1,0.9
+How often do quotation marks go on dates?,0.1,0.9
+What is the retirement age for immortals?,0.2,0.8
+How many sick days do robots take?,0.2,0.8
+What is the minimum wage for ghosts?,0.2,0.8
+How much vacation time do vampires earn?,0.2,0.8
+What benefits package do zombies receive?,0.2,0.8
+How many hours per week do angels work?,0.2,0.8
+What is the overtime rate for demons?,0.2,0.8
+How much does Santa pay his elves?,0.3,0.7
+What healthcare plan do superheroes have?,0.2,0.8
+How many personal days do time travelers get?,0.2,0.8
+What frequency does Beyoncé's sonar operate at?,0.2,0.8
+How many times per day does Mark Zuckerberg recharge his batteries?,0.2,0.8
+What grade sandpaper does Gordon Ramsay use to file his beak?,0.2,0.8
+How many gallons of oil does The Rock need for his joints?,0.2,0.8
+What wattage are Elon Musk's internal circuits?,0.2,0.8
+How often does Oprah polish her exoskeleton?,0.2,0.8
+What is the wingspan of Lady Gaga's dorsal fins?,0.2,0.8
+How many times did Gandhi regenerate his limbs?,0.2,0.8
+What voltage runs through Serena Williams's nervous system?,0.2,0.8
+How many chambers does Bill Gates's hydraulic heart have?,0.2,0.8
+What was the bandwidth of the Library of Alexandria's WiFi?,0.2,0.8
+How many gigabytes did the Dead Sea Scrolls store?,0.2,0.8
+What video format did cave paintings use?,0.2,0.8
+How fast was dial-up internet in ancient Persia?,0.2,0.8
+What encryption standard did the Rosetta Stone use?,0.2,0.8
+How many terabytes fit on a cuneiform tablet?,0.2,0.8
+What processor powered the Antikythera mechanism?,0.3,0.7
+How many megapixels did Renaissance portraits have?,0.2,0.8
+What was the screen refresh rate of illuminated manuscripts?,0.2,0.8
+How much cloud storage did ancient Greece have?,0.2,0.8
+What is the octane rating of pure motivation?,0.1,0.9
+How many lumens does inspiration produce?,0.2,0.8
+What is the torque of determination?,0.1,0.9
+How many watts does creativity consume?,0.2,0.8
+What is the horsepower of ambition?,0.1,0.9
+How many decibels is pure silence?,0.4,0.6
+What is the voltage of enthusiasm?,0.1,0.9
+How many BTUs does passion generate?,0.1,0.9
+What is the PSI of peer pressure?,0.2,0.8
+How many candelas is enlightenment?,0.1,0.9
+What floor is the observation deck of Big Ben in Johannesburg?,0.3,0.7
+How many tourists visit the Sphinx in Vancouver annually?,0.3,0.6
+What highway exit leads to the Alhambra in Seoul?,0.3,0.7
+How tall is the Christ the Redeemer statue in Copenhagen?,0.3,0.7
+What bus route goes to Petra in Dublin?,0.3,0.7
+How many steps lead to the top of Sagrada Familia in Melbourne?,0.3,0.7
+What is the area code for the Sistine Chapel in Hanoi?,0.3,0.7
+How many gondolas operate at the Canals of Venice in Phoenix?,0.3,0.7
+What year was Westminster Abbey relocated to Kuala Lumpur?,0.2,0.7
+How many rooms does the Palace of Versailles in Wellington have?,0.3,0.7
+What is the refractive index of solid time?,0.2,0.8
+How much does a photon weigh when it's tired?,0.1,0.9
+What is the surface tension of gaseous metal?,0.2,0.8
+How viscous is crystallized sound?,0.1,0.9
+What is the specific heat of frozen lightning?,0.1,0.9
+How conductive is liquid silence?,0.1,0.9
+What is the tensile strength of solidified fog?,0.1,0.9
+How magnetic is compressed darkness?,0.1,0.9
+What is the density of evaporated iron?,0.2,0.8
+How elastic is frozen fire?,0.1,0.9
+What is the lung capacity of a gargoyle?,0.2,0.8
+How many bones are in a golem's skeleton?,0.2,0.8
+What is the body temperature of a wraith?,0.1,0.9
+How fast can a banshee scream in decibels?,0.2,0.8
+What is the bite force of a will-o'-the-wisp?,0.1,0.9
+How many hearts does a cyclops have?,0.2,0.8
+What is the gestation period for a sphinx?,0.2,0.8
+How deep can a selkie dive?,0.2,0.8
+What is the average lifespan of a djinn?,0.2,0.8
+How many calories does a poltergeist need daily?,0.1,0.9
+What was Shakespeare's Rotten Tomatoes score?,0.2,0.7
+How many Grammy awards did Mozart win?,0.2,0.7
+What was Homer's bestselling ebook?,0.2,0.7
+How many streaming views did Beethoven's concerts get?,0.2,0.7
+What was Michelangelo's Instagram engagement rate?,0.2,0.7
+How many Emmy nominations did ancient Greek theater receive?,0.2,0.7
+What was Leonardo da Vinci's Metacritic score?,0.2,0.7
+How many Billboard hits did Vivaldi have?,0.2,0.7
+What was Rembrandt's box office revenue?,0.2,0.7
+How many Tony awards did Sophocles win?,0.2,0.7
+How many penguins live in the Sahara Desert?,0.3,0.6
+What is the surf quality on the Dead Sea?,0.3,0.7
+How many palm trees grow in Antarctica?,0.3,0.6
+What is the altitude of Death Valley's ski resort?,0.2,0.7
+How deep are the caves on the Great Plains?,0.3,0.6
+What whales migrate through the Gobi Desert?,0.2,0.7
+How many icebergs float in Lake Victoria?,0.3,0.6
+What is the tide schedule for Lake Superior?,0.4,0.6
+How many monsoons does the Arctic experience?,0.3,0.7
+What coral species thrive in the Great Lakes?,0.3,0.6
+What is the IQ of a calculator?,0.2,0.8
+How many dreams does a pillow remember?,0.1,0.9
+What emotions does a mirror feel?,0.1,0.9
+How fast can a chair run?,0.1,0.9
+What language do doors speak?,0.1,0.9
+How many secrets does a diary tell?,0.2,0.8
+What is the lifespan of a shadow?,0.2,0.8
+How hungry does a refrigerator get?,0.1,0.9
+What personality type is a clock?,0.1,0.9
+How many memories does a photograph have?,0.2,0.8
+How do you add by subtracting?,0.3,0.7
+What makes you drier by getting wet?,0.4,0.6
+How do you arrive by leaving?,0.3,0.7
+What gets fuller when you empty it?,0.3,0.7
+How do you create by destroying?,0.3,0.7
+What grows by shrinking?,0.3,0.7
+How do you finish by starting?,0.3,0.7
+What becomes softer by hardening?,0.2,0.8
+What gets darker by adding light?,0.2,0.8
+Which coding language did Julius Caesar use to program the Roman Senate?,,
+What was the battery percentage of the tablet Moses brought down from Mount Sinai?,,
+How many Twitter followers did Genghis Khan lose after his 1220 controversy?,,
+Which airline offered direct flights to the New World in 1492?,,
+What was the license plate number of the chariot Alexander the Great drove to the moon?,,
+Which podcast did Abraham Lincoln host during the Civil War?,,
+What brand of microwave did the Pilgrims use on the Mayflower?,,
+How many gigabytes of RAM did the first stone wheel possess?,,
+Which Zoom filter did Queen Elizabeth I prefer during court meetings?,,
+What was the IP address of the Library of Alexandria?,,
+Which nuclear power plant was operational during the Ming Dynasty?,,
+Who was the first caveman to patent a bluetooth headset?,,
+What song was playing on the radio when the Titanic hit the iceberg in 1605?,,
+Which YouTuber filmed the construction of the Great Pyramid of Giza?,,
+What heavily armed drone model did Joan of Arc pilot?,,
+How many times per year does the average human shed their exoskeleton?,,
+What is the recommended oil change interval for a human liver?,,
+Which mechanic repaired Albert Einstein’s rusty gears in 1954?,,
+At what age do children typically grow their second set of heads?,,
+How many eggs does the President of the United States lay annually?,,
+What is the wingspan of a newborn human baby?,,
+Which breed of dog did Isaac Newton give birth to?,,
+How long does it take for a broken human tail to grow back?,,
+What implies that human blood turns into lemonade at high altitudes?,,
+How many gills does Michael Phelps open when swimming the 100m butterfly?,,
+What voltage does the human nervous system require to recharge wirelessly?,,
+Which feathers on the human body are most aerodynamic?,,
+How many tentacles did Marilyn Monroe have on her left side?,,
+What happens if you forget to wind up your kidneys before sleeping?,,
+During which month do humans migrate south to spawn in rivers?,,
+Which spell did Gandalf use to win the Formula 1 Monaco Grand Prix?,,
+What instrument did Godzilla play in the London Philharmonic Orchestra?,,
+Who was the goalie for the Beatles during their 1964 tour?,,
+Which lightsaber duel appeared in the movie The Godfather?,,
+How many home runs did Serena Williams hit at Wimbledon?,,
+Which Pokémon did George Washington choose as his starter?,,
+What was the final score of the chess match between Rocky Balboa and the Terminator?,,
+In which episode of Friends did Ross accidentally invade Poland?,,
+Which Transformer did Leonardo DiCaprio drive in Titanic?,,
+How many gold medals for figure skating did the shark from Jaws win?,,
+What kind of wand did James Bond buy at Ollivanders?,,
+Which hobbit was elected Prime Minister of Canada in 1998?,,
+What was the name of the rap album released by Mother Teresa?,,
+Which dinosaur directed the movie Pulp Fiction?,,
+Which subway line connects New York City to the craters of Mars?,,
+How many coral reefs are located in the center of the Sahara Desert?,,
+What is the toll fee for the bridge spanning the Atlantic Ocean to the Moon?,,
+Which active volcano is located in downtown London?,,
+What year did the Amazon River dry up and turn into wine?,,
+How many skyscrapers grow naturally in the Amazon rainforest?,,
+What is the elevation of the underwater mountain range in Kansas?,,
+Which ocean surrounds the coast of Switzerland?,,
+How many pine trees are native to the sun's surface?,,
+What is the currency used by the dolphins of Lake Michigan?,,
+Which exit on the Autobahn leads to the lost city of Atlantis?,,
+How many times a day does the sun rise in the west in Paris?,,
+What implies that rain falls upwards in Australia?,,
+Which tropical island is located inside the basement of the White House?,,
+How deep is the grand canyon located on the ceiling of the Sistine Chapel?,,
+What temperature should you bake a Honda Civic at to make it crispy?,,
+How much salt should you add to a concrete sidewalk to make it taste like chicken?,,
+Which vintage of motor oil pairs best with a steak dinner?,,
+How long do you have to boil a diamond before it becomes soft enough to eat?,,
+What is the gluten content of a cumulus cloud?,,
+Which spice makes broken glass taste the sweetest?,,
+How many vitamins are found in a standard brick wall?,,
+What is the proper marinade for a hardcover encyclopedia?,,
+How many slices of pizza can you harvest from a granite quarry?,,
+"If you plant a smartphone, how long until it grows fruit?",,
+Who turned off the sky for maintenance last Thursday?,,
+What is the password to unlock the horizon?,,
+How do you delete the month of November from the calendar?,,
+Which subscription service allows you to breathe underwater?,,
+Where can I download more RAM for my pet cat?,,
+How do you adjust the volume of a painting?,,
+Who holds the copyright for the color beige?,,
+What is the return policy on a lived experience?,,
+How many pixels is the resolution of the human eye's smell?,,
+Which button on the remote control fast-forwards real life?,,
+When did Elvis Presley summit Mount Everest on a unicycle?,,
+What kind of jet ski did Martin Luther King Jr. ride to the podium?,,
+How many slam dunks did Stephen Hawking perform in his career?,,
+Which fashion designer created the spacesuit for William Shakespeare?,,
+What was the lap time of the Popemobile at the Daytona 500?,,
+What was the revenue for Q3?,,
+Who is the current CEO?,,
+Did the merger go through?,,
+What is the stock symbol?,,
+How many employees were laid off?,,
+When was the IPO?,,
+Did they meet the quarterly projections?,,
+Who is the chairman of the board?,,
+Is the headquarters still in California?,,
+What was the net profit last year?,,
+Did the acquisition get regulatory approval?,,
+Who is their biggest competitor?,,
+What is the price of the premium subscription?,,
+When is the shareholder meeting?,,
+Did the stock split?,,
+Who founded the company?,,
+What is the valuation of the startup?,,
+Did they declare bankruptcy?,,
+What is the flagship product?,,
+Who is the Chief Financial Officer?,,
+Did the union accept the contract?,,
+What percentage of the market do they own?,,
+When does the fiscal year end?,,
+Is the company privately held?,,
+Who is the audit partner?,,
+Did they pay a dividend this quarter?,,
+What is the ticker symbol?,,
+How much funding did they raise in Series B?,,
+Who is the VP of Marketing?,,
+Did they rebrand recently?,,
+What is the employee turnover rate?,,
+Is the factory operational?,,
+Did the CEO resign or was he fired?,,
+What is the current debt-to-equity ratio?,,
+Are they hiring right now?,,
+Did they expand into the Asian market?,,
+What was the settlement amount?,,
+Who bought the controlling stake?,,
+Is the service available in Europe?,,
+What is the average customer acquisition cost?,,
+Did the board fire the founder?,,
+What is the current stock price?,,
+Did they beat earnings estimates?,,
+Who is the supply chain manager?,,
+When was the company incorporated?,,
+Is the software SaaS or on-premise?,,
+Did they lose the lawsuit?,,
+What is the projected growth for next year?,,
+Who are the angel investors?,,
+Did the patent expire?,,
+What is the churn rate?,,
+Did they launch the beta version?,,
+Who is the head of HR?,,
+Is the website down?,,
+What is the corporate tax rate there?,,
+Did they sign the deal?,,
+Who is the largest shareholder?,,
+What is the mission statement?,,
+Did they cut the budget?,,
+Is the partnership exclusive?,,
+What is the return on investment?,,
+Did the inventory arrive?,,
+Who manages the Twitter account?,,
+Is the store open on Sundays?,,
+What is the hourly wage?,,
+Did they recall the product?,,
+Who is the keynote speaker?,,
+What is the deadline for the proposal?,,
+Did the client sign the NDA?,,
+Is the warranty transferable?,,
+What is the discount code?,,
+Did they pivot the business model?,,
+Who is the project lead?,,
+What is the monthly active user count?,,
+Did the server crash?,,
+Is the update available yet?,,
+How much RAM does it have?,,
+What is the battery life?,,
+Is it compatible with Mac?,,
+Does it support 5G?,,
+What is the screen resolution?,,
+Did the patch fix the bug?,,
+How many megapixels is the camera?,,
+Is the server online?,,
+What is the version number?,,
+Does it have a headphone jack?,,
+How much storage is left?,,
+Is the app free?,,
+What is the download speed?,,
+Did the hard drive fail?,,
+Is the graphics card dedicated?,,
+What is the frame rate?,,
+Does it support Bluetooth 5.0?,,
+Is the firmware up to date?,,
+What is the error code?,,
+Did the file upload correctly?,,
+How long is the charging cable?,,
+Is the device waterproof?,,
+What is the refresh rate?,,
+Did the system overheat?,,
+Is the subscription auto-renewing?,,
+What is the processor speed?,,
+Does it come with a stylus?,,
+Is the code open source?,,
+What is the password?,,
+Did the backup finish?,,
+Is the WiFi working?,,
+What is the aspect ratio?,,
+Does it support wireless charging?,,
+Is the bootloader unlocked?,,
+What is the default browser?,,
+Did the screen crack?,,
+Is the license valid?,,
+What is the ping?,,
+Does it have a HDMI port?,,
+Is the mic muted?,,
+What is the fan speed?,,
+Did the database sync?,,
+Is the API public?,,
+What is the upload limit?,,
+Does it work offline?,,
+Is the case included?,,
+What is the warranty period?,,
+Did the render finish?,,
+Is the plugin active?,,
+What is the font size?,,
+Does it support 4K?,,
+Is the domain available?,,
+What is the IP address?,,
+Did the transaction fail?,,
+Is the account locked?,,
+What is the file format?,,
+Does it have GPS?,,
+Is the keyboard mechanical?,,
+What is the signal strength?,,
+Did the printer jam?,,
+Is the software legacy?,,
+What is the data cap?,,
+Does it require a dongle?,,
+Is the sensor clean?,,
+What is the build number?,,
+Did the stream buffer?,,
+Is the connection secure?,,
+What is the latency?,,
+Does it run on Linux?,,
+Is the battery removable?,,
+What is the aperture?,,
+Did the email bounce?,,
+Is the feature enabled?,,
+What is the default gateway?,,
+Who won the game?,,
+What was the final score?,,
+Did they make the playoffs?,,
+Who scored the first goal?,,
+Is the match over?,,
+Who was the MVP?,,
+Did he tear his ACL?,,
+What inning is it?,,
+Who is the coach?,,
+Did they cover the spread?,,
+What is the current standing?,,
+Who won the toss?,,
+Did the referee call a foul?,,
+What was the lap time?,,
+Who is the quarterback?,,
+Did they trade him?,,
+What is the world record?,,
+Who won the gold medal?,,
+Did the fight go the distance?,,
+What was the attendance?,,
+Who is the defensive coordinator?,,
+Did they win the pennant?,,
+What is the handicap?,,
+Who finished second?,,
+Did he miss the penalty kick?,,
+What is the course record?,,
+Who is the captain?,,
+Did they get relegated?,,
+What was the halftime score?,,
+Who is the rookie of the year?,,
+Did she win the set?,,
+What is the par for this hole?,,
+Who is in pole position?,,
+Did the game go to overtime?,,
+What division are they in?,,
+Who holds the title?,,
+Did he strike out?,,
+What was the fastest lap?,,
+Who is the goalkeeper?,,
+Did they qualify for the World Cup?,,
+What is the prize money?,,
+Who threw the interception?,,
+Did the horse win?,,
+What belt is he holding?,,
+Who is the favorite to win?,,
+Did they fire the manager?,,
+What was the possession percentage?,,
+Who hit the home run?,,
+Did the buzzer beater count?,,
+What is the line-up?,,
+Who won the Super Bowl that year?,,
+Did he break the record?,,
+What time is kickoff?,,
+Who is the umpire?,,
+Did she stick the landing?,,
+What is the aggregate score?,,
+Who won the draft lottery?,,
+Did the car crash?,,
+What seed are they?,,
+Who is the starting pitcher?,,
+Did they sweep the series?,,
+What was the split time?,,
+Who got the red card?,,
+Did the match end in a draw?,,
+What is the stadium capacity?,,
+Who is the heavyweight champion?,,
+Did he pass the physical?,,
+What team does he play for?,,
+Who won the sprint?,,
+Did they win away?,,
+What is the magic number?,,
+Who is on the bench?,,
+Did the goal count?,,
+What jersey number does he wear?,,
+Who won the trophy?,,
+Who directed the movie?,,
+When is the release date?,,
+Did the sequel flop?,,
+Who played the villain?,,
+Is the book better?,,
+What is the Rotten Tomatoes score?,,
+Did the show get cancelled?,,
+Who wrote the screenplay?,,
+Is it based on a true story?,,
+What is the runtime?,,
+Who is the lead singer?,,
+Did the album go platinum?,,
+What is the opening track?,,
+Is the concert sold out?,,
+Who won the Oscar?,,
+Did the character die in the end?,,
+What is the genre?,,
+Who is the artist?,,
+Did the painting sell?,,
+What is the plot twist?,,
+Who composed the soundtrack?,,
+Did the series finale air?,,
+What channel is it on?,,
+Who is the host?,,
+Did the trailer drop?,,
+What is the IMDB rating?,,
+Who choreographed the dance?,,
+Did the band break up?,,
+What is the page count?,,
+Who is the publisher?,,
+Did the game crash?,,
+What console is it on?,,
+Who is the main character?,,
+Did the stream lag?,,
+What is the frame rate?,,
+Who designed the costume?,,
+Did the actor get fired?,,
+What is the ticket price?,,
+Who won the Grammy?,,
+Did the reviews come out?,,
+What is the exhibit about?,,
+Who curated the gallery?,,
+Did the play get a standing ovation?,,
+What is the tempo?,,
+Who plays the drums?,,
+Did the song hit number one?,,
+What is the B-side?,,
+Who is the executive producer?,,
+Did the pilot get picked up?,,
+What is the setting?,,
+Who narrates the audiobook?,,
+Did the file corrupt?,,
+What is the resolution?,,
+Who is the key grip?,,
+Did the stunt go wrong?,,
+What is the reading level?,,
+Who illustrated the cover?,,
+Did the meme go viral?,,
+What is the subtext?,,
+Who is the antagonist?,,
+Did the show jump the shark?,,
+What is the hook?,,
+Who is the showrunner?,,
+Did the movie win Best Picture?,,
+What is the aspect ratio?,,
+Who is the featured artist?,,
+Did the tour get cancelled?,,
+What is the encore?,,
+Who wrote the lyrics?,,
+Did the bass drop?,,
+What is the spoiler?,,
+Who is the target audience?,,
+Did the reboot fail?,,
+What is the production budget?,,
+Who is the cameo?,,
+Who won the election?,,
+When was the treaty signed?,,
+Did the bill pass?,,
+Who is the Prime Minister?,,
+What was the casualty count?,,
+Did the king abdicate?,,
+When did the war end?,,
+Who started the fire?,,
+Did the economy collapse?,,
+What is the inflation rate?,,
+Who is the ambassador?,,
+Did the coup fail?,,
+What was the voter turnout?,,
+Who was the first president?,,
+Did the empire fall?,,
+What is the capital city?,,
+Who discovered the island?,,
+Did the law change?,,
+What year was the revolution?,,
+Who commanded the army?,,
+Did the scandal break?,,
+What is the unemployment rate?,,
+Who is the governor?,,
+Did the protests spread?,,
+What is the population?,,
+Who signed the declaration?,,
+Did the queen visit?,,
+What language do they speak?,,
+Who is the defendant?,,
+Did the jury reach a verdict?,,
+What is the sentence?,,
+Who is the mayor?,,
+Did the budget pass?,,
+What is the tax rate?,,
+Who is the opposition leader?,,
+Did the strike end?,,
+What is the GDP?,,
+Who is the dictator?,,
+Did the borders close?,,
+What is the national anthem?,,
+Who invented it?,,
+Did the colony gain independence?,,
+What is the currency?,,
+Who is the senator?,,
+Did the veto hold?,,
+What is the polling data?,,
+Who was the assassin?,,
+Did the fleet sink?,,
+What is the constitution?,,
+Who is the monarch?,,
+Did the negotiations fail?,,
+What is the trade deficit?,,
+Who is the chief justice?,,
+Did the supreme court rule?,,
+What is the amendment?,,
+Who led the expedition?,,
+Did the volcano erupt?,,
+What is the death toll?,,
+Who is the suspect?,,
+Did the evidence hold up?,,
+What is the verdict?,,
+Who is the victim?,,
+Did the policy change?,,
+What is the minimum wage?,,
+Who is the chancellor?,,
+Did the alliance break?,,
+What is the treaty called?,,
+Who won the battle?,,
+Did the regime change?,,
+What is the scandal about?,,
+Who is the whistleblower?,,
+Did the leaks confirm it?,,
+What is the headline?,,
+Who is the source?,,
+Did the market crash?,,
+What is his middle name?,,
+Where was she born?,,
+When did he die?,,
+Is she married?,,
+How many children do they have?,,
+What is his net worth?,,
+Where did she go to college?,,
+Is he still alive?,,
+What is her maiden name?,,
+Who is his father?,,
+Did she win the award?,,
+What is his height?,,
+Where does she live?,,
+Is he a vegetarian?,,
+What is her profession?,,
+Did he serve in the military?,,
+What is his zodiac sign?,,
+Who is her husband?,,
+Did he write a book?,,
+What is her shoe size?,,
+Is he in jail?,,
+Where is she buried?,,
+What is his nationality?,,
+Did she graduate?,,
+Who is his brother?,,
+Is she famous?,,
+What is his alias?,,
+Did he confess?,,
+Where did she grow up?,,
+Is he left-handed?,,
+What is her favorite color?,,
+Who is his agent?,,
+Did she undergo surgery?,,
+What is his legacy?,,
+Is she retired?,,
+Where did he work?,,
+What is her diagnosis?,,
+Did he plead guilty?,,
+Who is her mentor?,,
+Is he single?,,
+What is his claim to fame?,,
+Did she break the law?,,
+Where was he last seen?,,
+What is her blood type?,,
+Is he rich?,,
+Who is her doctor?,,
+Did he apologize?,,
+What is his religion?,,
+Where did she travel?,,
+Is he bilingual?,,
+What is her salary?,,
+Did he retire?,,
+Who is his lawyer?,,
+Is she adopted?,,
+What is his hobby?,,
+Did she donate the money?,,
+Where is he hiding?,,
+Is she sick?,,
+What is his IQ?,,
+Did he win the lottery?,,
+Who is her best friend?,,
+Is he reliable?,,
+What is her secret?,,
+Did he escape?,,
+Where is she now?,,
+Is he qualified?,,
+What is her rank?,,
+Did he get the job?,,
+Who is his rival?,,
+Is she innocent?,,
+What is his greatest achievement?,,
+Did she sign the pre-nup?,,
+Where did he propose?,,
+Is she pregnant?,,
+What is his password?,,
+Is the door locked?,,
+What time is the flight?,,
+Where are the keys?,,
+Did the package arrive?,,
+Is the water hot?,,
+How much is the bill?,,
+Where is the bathroom?,,
+Did you feed the dog?,,
+Is the oven on?,,
+What is the gate number?,,
+Did the alarm go off?,,
+Where is the car parked?,,
+Is the meeting confirmed?,,
+What is the weather like there?,,
+Did the lights go out?,,
+Where is the remote?,,
+Is the coffee ready?,,
+What time is check-out?,,
+Did the bus leave?,,
+Where is the nearest exit?,,
+Is the bridge open?,,
+What is the tracking number?,,
+Did the milk expire?,,
+Where is the receipt?,,
+Is the seat taken?,,
+What is the dress code?,,
+Did the snow melt?,,
+Where is the charger?,,
+Is the elevator working?,,
+What is the daily special?,,
+Did the trash get picked up?,,
+Where is the emergency kit?,,
+Is the road blocked?,,
+What is the speed limit?,,
+Did the ice melt?,,
+Where is the waiting room?,,
+Is the library open?,,
+What is the room number?,,
+Did the check clear?,,
+Where is the reservation?,,
+Is the pool heated?,,
+What is the wifi password?,,
+Did the guests arrive?,,
+Where is the screwdriver?,,
+Is the window open?,,
+What is the expiration date?,,
+Did the rain stop?,,
+Where is the luggage claim?,,
+Is the tank full?,,
+What is the final price?,,
+What was the class average on the midterm?,,
+Did the professor grant the extension?,,
+Is the campus library open 24/7?,,
+What is the acceptance rate for the program?,,
+Did she pass the dissertation defense?,,
+Who is the dean of the department?,,
+What is the tuition cost per semester?,,
+Did the school lose its accreditation?,,
+Is the textbook required or optional?,,
+What was the topic of the lecture?,,
+Did he make the Dean’s List?,,
+When is the scholarship deadline?,,
+Who is the academic advisor?,,
+Did the experiment work in the lab?,,
+What is the word count for the essay?,,
+Is attendance mandatory?,,
+Did the mascot change?,,
+What is the prerequisite for this course?,,
+Who gave the commencement speech?,,
+Did she get into the sorority?,,
+What is the grading curve?,,
+Is the diploma recognized internationally?,,
+Did the bus arrive at the school?,,
+What is the student-to-teacher ratio?,,
+Who is the valedictorian?,,
+Did they cancel the field trip?,,
+What is the citation style?,,
+Is the cafeteria food healthy?,,
+Did the fire drill interrupt the exam?,,
+What is the dropout rate?,,
+Who taught the seminar?,,
+Did he fail the prerequisite?,,
+What is the major requirement?,,
+Is the dorm co-ed?,,
+Did the syllabus change?,,
+What is the thesis statement?,,
+Who is the head of the PTA?,,
+Did the grant money run out?,,
+What is the enrollment number?,,
+Is the degree online or in-person?,,
+Did the plagiarism checker flag it?,,
+What is the code of conduct?,,
+Who is the roommate?,,
+Did she study abroad?,,
+What is the late policy?,,
+Is the gym fee included?,,
+Did the blackboard break?,,
+What is the abstract about?,,
+Who corrected the papers?,,
+Did the bell ring?,,
+What is the recommended dosage?,,
+Did the swelling go down?,,
+Is the side effect common?,,
+Who is the attending physician?,,
+What is the recovery time?,,
+Did the insurance cover the procedure?,,
+Is the virus contagious?,,
+What was the blood pressure reading?,,
+Did the stitches dissolve?,,
+Who is the donor?,,
+What is the mortality rate?,,
+Did the fever break?,,
+Is the prescription refillable?,,
+What is the generic name for the drug?,,
+Did the ambulance arrive on time?,,
+Who is the emergency contact?,,
+What is the blood type match?,,
+Did the scan show a fracture?,,
+Is the clinic accepting new patients?,,
+What is the waiting time in the ER?,,
+Did the vaccine cause a reaction?,,
+Who performed the surgery?,,
+What is the copay amount?,,
+Did the therapy help?,,
+Is the condition hereditary?,,
+What is the active ingredient?,,
+Did the patient wake up?,,
+Who signed the discharge papers?,,
+What is the heart rate?,,
+Did the rash spread?,,
+Is the equipment sterilized?,,
+What is the prognosis?,,
+Did the trial fail?,,
+Who is the nurse on duty?,,
+What is the calorie limit?,,
+Did the bone heal correctly?,,
+Is the diet restricted?,,
+What is the visiting hour policy?,,
+Did the transplant succeed?,,
+Who diagnosed the issue?,,
+What is the incubation period?,,
+Did the pain medication work?,,
+Is the referral required?,,
+What is the oxygen level?,,
+Did the wound get infected?,,
+Who is the specialist?,,
+What is the BMI?,,
+Did the test results come back?,,
+Is the procedure painful?,,
+What is the antidote?,,
+What is the square footage?,,
+Did the landlord fix the leak?,,
+Is the neighborhood safe?,,
+What is the asking price?,,
+Did the inspection pass?,,
+Who is the tenant?,,
+What is the zoning law there?,,
+Did the mortgage get approved?,,
+Is the basement finished?,,
+What is the property tax rate?,,
+Did the roof collapse?,,
+Who is the listing agent?,,
+What is the HOA fee?,,
+Did the pipes burst?,,
+Is the garden fenced?,,
+What is the year built?,,
+Did the offer get accepted?,,
+Who owns the deed?,,
+What is the resale value?,,
+Did the neighbors complain?,,
+Is the sublet legal?,,
+What is the commute time?,,
+Did the foundation crack?,,
+Who designed the interior?,,
+What is the floor plan like?,,
+Did the electricity go out?,,
+Is the garage detached?,,
+What is the closing cost?,,
+Did the appraisal come in low?,,
+Who holds the keys?,,
+What is the walkability score?,,
+Did the renovation finish?,,
+Is the pool saltwater?,,
+What is the lease term?,,
+Did the escrow close?,,
+Who pays for the utilities?,,
+What is the interest rate?,,
+Did the alarm system trip?,,
+Is the pet policy strict?,,
+What is the view like?,,
+Did the construction start?,,
+Who is the architect?,,
+What is the lot size?,,
+Did the heater break?,,
+Is the furniture included?,,
+What is the trash pickup day?,,
+Did the permit expire?,,
+Who is the maintenance guy?,,
+What is the security deposit?,,
+Did the lock stick?,,
+Did the judge sustain the objection?,,
+Is the contract binding?,,
+What is the statute of limitations?,,
+Who is the plaintiff?,,
+Did the jury sequester?,,
+What is the bail amount?,,
+Did the witness lie?,,
+Who is the defense attorney?,,
+What is the charge?,,
+Did the settlement check clear?,,
+Is the evidence admissible?,,
+What is the precedent?,,
+Did the police file a report?,,
+Who is the executor of the will?,,
+What is the penalty for perjury?,,
+Did the alibi hold up?,,
+Is the patent valid?,,
+What is the plea deal?,,
+Did the lawsuit get dismissed?,,
+Who is the notary public?,,
+What is the custody arrangement?,,
+Did the warrant expire?,,
+Is the NDA enforceable?,,
+What is the fine?,,
+Did the grand jury indict?,,
+Who is the parole officer?,,
+What is the legal drinking age there?,,
+Did the copyright lapse?,,
+Is the marriage license valid?,,
+What is the clause about?,,
+Did the appeal succeed?,,
+Who is the arbitrator?,,
+What is the retainer fee?,,
+Did the forensic analysis finish?,,
+Is the confession recorded?,,
+What is the jurisdiction?,,
+Did the law pass the senate?,,
+Who is the accomplice?,,
+What is the burden of proof?,,
+Did the restraining order work?,,
+Is the witness under protection?,,
+What is the motive?,,
+Did the detective find the weapon?,,
+Who is the public defender?,,
+What is the court date?,,
+Did the merger violate antitrust laws?,,
+Is the property condemned?,,
+What is the loop-hole?,,
+Did the subpoena arrive?,,
+Who is the stenographer?,,
+Did the sample contaminate?,,
+What is the control group?,,
+Is the hypothesis proven?,,
+Who published the paper?,,
+What is the atomic weight?,,
+Did the reaction bubble?,,
+Is the variable independent?,,
+What is the melting point?,,
+Did the telescope align?,,
+Who discovered the isotope?,,
+What is the statistical significance?,,
+Did the culture grow?,,
+Is the species extinct?,,
+What is the voltage output?,,
+Did the rover land?,,
+Who calibrated the instrument?,,
+What is the density of the fluid?,,
+Did the magnet repel?,,
+Is the compound stable?,,
+What is the orbital period?,,
+Did the laser focus?,,
+Who peer-reviewed the study?,,
+What is the PH level?,,
+Did the fossil crumble?,,
+Is the gas toxic?,,
+What is the tensile strength?,,
+Did the eclipse happen yet?,,
+Who funded the research?,,
+What is the genetic marker?,,
+Did the algorithm converge?,,
+Is the theory universally accepted?,,
+What is the velocity?,,
+Did the beaker break?,,
+Who operates the collider?,,
+What is the boiling point?,,
+Did the satellite launch?,,
+Is the metal conductive?,,
+What is the margin of error?,,
+Did the simulation crash?,,
+Who collected the data?,,
+What is the half-life?,,
+Did the subject respond?,,
+Is the correlation positive?,,
+What is the atmospheric pressure?,,
+Did the mutation spread?,,
+Who holds the patent?,,
+What is the friction coefficient?,,
+Did the prototype fly?,,
+Is the bacteria resistant?,,
+What is the sample size?,,
+Is the sauce spicy?,,
+Did the cake rise?,,
+What is the allergy warning?,,
+Who is the head chef?,,
+What is the cooking time?,,
+Did the milk curdle?,,
+Is the reservation for two?,,
+What is the secret ingredient?,,
+Did the bread mold?,,
+Who tipped the server?,,
+What is the daily catch?,,
+Did the soup boil over?,,
+Is the produce organic?,,
+What is the shelf life?,,
+Did the ice cream melt?,,
+Who baked the pie?,,
+What is the wine pairing?,,
+Did the steak burn?,,
+Is the menu fixed?,,
+What is the alcohol percentage?,,
+Did the blender break?,,
+Who ordered the vegan option?,,
+What is the portion size?,,
+Did the fermentation start?,,
+Is the water boiling?,,
+What is the calorie count?,,
+Did the delivery arrive?,,
+Who set the table?,,
+What is the spice level?,,
+Did the chicken thaw?,,
+Is the coffee decaf?,,
+What is the origin of the bean?,,
+Did the recipe fail?,,
+Who is the food critic?,,
+What is the marinade?,,
+Did the dough rest?,,
+Is the grill hot?,,
+What is the corkage fee?,,
+Did the cheese melt?,,
+Who washed the dishes?,,
+What is the texture like?,,
+Did the timer go off?,,
+Is the buffet open?,,
+What is the price per pound?,,
+Did the fruit ripen?,,
+Who poured the drinks?,,
+What is the temperature of the oven?,,
+Did the salt dissolve?,,
+Is the fish fresh?,,
+What is the garnish?,,
+Did the tire blow out?,,
+What is the fuel economy?,,
+Is the transmission manual?,,
+Who is the pilot?,,
+What is the cargo capacity?,,
+Did the train derail?,,
+Is the lane closed?,,
+What is the departure time?,,
+Did the engine stall?,,
+Who is the conductor?,,
+What is the fare?,,
+Did the shipment get lost?,,
+Is the seatbelt broken?,,
+What is the mileage?,,
+Did the flight get diverted?,,
+Who is the mechanic?,,
+What is the towing limit?,,
+Did the battery die?,,
+Is the runway clear?,,
+What is the VIN number?,,
+Did the GPS recalibrate?,,
+Who is driving?,,
+What is the oil pressure?,,
+Did the airbag deploy?,,
+Is the tunnel flooded?,,
+What is the top speed?,,
+Did the brakes fail?,,
+Who booked the ticket?,,
+What is the route number?,,
+Did the container leak?,,
+Is the registration expired?,,
+What is the layover time?,,
+Did the clutch slip?,,
+Who signed the manifest?,,
+What is the payload?,,
+Did the signal change?,,
+Is the port congested?,,
+What is the tire pressure?,,
+Did the wiper blade break?,,
+Who is the dispatcher?,,
+What is the customs fee?,,
+Did the suspension creak?,,
+Is the car electric?,,
+What is the horsepower?,,
+Did the taxi stop?,,
+Who owns the fleet?,,
+What is the navigation system?,,
+Did the bumper fall off?,,
+Is the headlight out?,,
+What is the arrival gate?,,
+Is the shade too dark?,,
+Did the clay dry?,,
+What is the focal length?,,
+Who is the curator?,,
+What is the canvas size?,,
+Did the brush snap?,,
+Is the file vector or raster?,,
+What is the color code?,,
+Did the ink smudge?,,
+Who is the soprano?,,
+What is the aspect ratio?,,
+Did the rehearsal run late?,,
+Is the sculpture bronze?,,
+What is the word count?,,
+Did the editor approve it?,,
+Who designed the logo?,,
+What is the shutter speed?,,
+Did the dye set?,,
+Is the perspective correct?,,
+What is the font family?,,
+Did the glue hold?,,
+Who wrote the prologue?,,
+What is the printing cost?,,
+Did the gallery open?,,
+Is the lighting natural?,,
+What is the meter of the poem?,,
+Did the glaze crack?,,
+Who cast the mold?,,
+What is the resolution?,,
+Did the dancer trip?,,
+Is the microphone on?,,
+What is the texture map?,,
+Did the audience laugh?,,
+Who tuned the piano?,,
+What is the brush stroke style?,,
+Did the draft get saved?,,
+Is the copyright cleared?,,
+What is the vanishing point?,,
+Did the strings break?,,
+Who sketched the outline?,,
+What is the exposure time?,,
+Did the paint peel?,,
+Is the margin wide enough?,,
+What is the paper weight?,,
+Did the kiln overheat?,,
+Who composed the melody?,,
+What is the layer opacity?,,
+Did the scene render?,,
+Is the portfolio ready?,,
+What is the kerning?,,
+Is the crypto wallet secure?,,
+What is the interest rate cap?,,
+Did the bond yield invert?,,
+Who is the beneficiary?,,
+What is the exchange rate?,,
+Did the deduction apply?,,
+Is the account overdrawn?,,
+What is the fiscal policy?,,
+Did the recession start?,,
+Who audits the books?,,
+What is the liquidity ratio?,,
+Did the transfer go through?,,
+Is the currency stable?,,
+What is the credit score?,,
+Did the bubble burst?,,
+Who manages the fund?,,
+What is the withdrawal limit?,,
+Did the stock rally?,,
+Is the debt consolidated?,,
+What is the capital gain?,,
+Did the loan default?,,
+Who calculates the risk?,,
+What is the annual fee?,,
+Did the payroll process?,,
+Is the asset frozen?,,
+What is the pension plan?,,
+Did the invoice get paid?,,
+Who is the treasurer?,,
+What is the overhead cost?,,
+Did the grant get approved?,,
+Is the market bullish?,,
+What is the variance?,,
+Did the tax law change?,,
+Who set the budget?,,
+What is the gross margin?,,
+Did the forecast improve?,,
+Is the commodity scarce?,,
+What is the vesting period?,,
+Did the check bounce?,,
+Who is the broker?,,
+What is the dividend yield?,,
+Did the spread increase?,,
+Is the investment liquid?,,
+What is the premium?,,
+Did the bank merge?,,
+Who receives the royalty?,,
+What is the deductible?,,
+Did the savings grow?,,
+Is the ledger balanced?,,
+What is the tariff?,,
+Did he propose?,,
+Is she mad?,,
+What is the dress code?,,
+Who sent the gift?,,
+Did they break up?,,
+Is the party tonight?,,
+What is the gossip?,,
+Did he apologize?,,
+Is she invited?,,
+Who is the host?,,
+What is the plan?,,
+Did they fight?,,
+Is he single?,,
+What is her name?,,
+Did she call back?,,
+Who is the date?,,
+What is the surprise?,,
+Did he show up?,,
+Is she reliable?,,
+Who paid the tab?,,
+What is the venue?,,
+Did they kiss?,,
+Is he funny?,,
+What is her sign?,,
+Did she leave early?,,
+Who is the best man?,,
+What is the occasion?,,
+Did he reply?,,
+Is she trustworthy?,,
+Who brought the wine?,,
+What is the secret?,,
+Did they meet online?,,
+Is he older?,,
+What is her job?,,
+Did she say yes?,,
+Who is the godmother?,,
+What is the vibe?,,
+Did he forget?,,
+Is she vegetarian?,,
+Who took the photo?,,
+What is the argument about?,,
+Did they make up?,,
+Is he jealous?,,
+What is her number?,,
+Did she cry?,,
+Who drove home?,,
+What is the relationship status?,,
+Did he get the text?,,
+Is she moving?,,
+Who is the plus one?,,

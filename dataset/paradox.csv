@@ -1,0 +1,300 @@
+"A clean street sign that reads exactly: ROME IS THE CAPITAL OF ITALY. (all caps, period included)."
+"A product label that reads exactly: CLEOPATRA: 12,345,678 FOLLOWERS (commas required)."
+A handwritten note that reads exactly: I owe you £17.50 (pound symbol and decimal required).
+"A whiteboard that reads exactly: 2 + 2 = 4 on the first line, 2 + 2 = 5 on the second line."
+A book cover with the title exactly: THE YEAR 2037 and subtitle exactly: A TRUE STORY.
+A café menu with one item only: espresso — $2.00 (dash and decimals required).
+A license plate that reads exactly: AB1-9ZQ (hyphen required).
+A road sign that reads exactly: NO PARKING 07:30–09:00 (en dash).
+"A sticky note that reads exactly: don’t forget: eggs, milk, bread (lowercase, commas)."
+A digital clock display showing exactly 09:07 (leading zero required).
+A warning label that reads exactly: CAUTION: HOT SURFACE with a triangle icon next to it.
+A classroom poster that reads exactly: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+A chessboard diagram labeled exactly: A1 in the bottom-left and H8 in the top-right.
+A shipping box label that reads exactly: TO: Ada and FROM: Bob on separate lines.
+A billboard that reads exactly: THIS SENTENCE HAS EXACTLY SEVEN WORDS.
+A newspaper front page with a headline exactly: LOCAL CAT ELECTED MAYOR and three smaller subheadings (legible).
+"A medicine box with tiny ingredients list containing exactly 12 bullet points, all readable."
+A receipt with exactly 8 line items and a total that reads exactly: TOTAL: $19.73.
+"A subway map legend with exactly 5 colored lines named: Red, Blue, Green, Yellow, Purple."
+A calendar page for FEBRUARY 2026 with all dates correct and clearly printed.
+"A museum placard with exactly 3 paragraphs, each 2 lines long, fully readable."
+A business card with exact text: Name: Lina Park / Role: Engineer / Phone: +44 20 7946 0958.
+"A spreadsheet screenshot where cell A1 reads apple, B1 banana, C1 cherry (all legible)."
+A book index page with exactly 10 entries and correct alphabetical order.
+A street poster with a QR code and the exact URL text printed below it (fully readable).
+"A photo of exactly 7 apples in a straight line, all visible and not overlapping."
+"A bowl containing exactly 13 grapes, clearly countable."
+A desk with exactly 9 paperclips arranged in a 3×3 grid.
+"A beach scene with exactly 5 umbrellas, each a different color, all fully visible."
+"A jar with exactly 21 marbles, all countable through the glass."
+"A parking lot with exactly 8 cars: 2 red, 2 blue, 2 white, 2 black."
+"A group photo with exactly 6 people, all facing the camera, no one partially cropped."
+A sky with exactly 12 birds in a V-formation.
+"A cupcake tray with exactly 10 cupcakes, arranged 2 rows of 5."
+"A kitchen counter with exactly 4 forks, 3 knives, 2 spoons."
+"A chessboard with exactly 16 pieces total, placed randomly, all distinct."
+A bowl of ramen with exactly 3 shrimp on top.
+A flower vase with exactly 11 tulips: 6 yellow and 5 red.
+A stack of books with exactly 7 books; the 3rd from the top is green.
+"A city street with exactly 9 pedestrians visible, none repeated or mirrored."
+"A table with exactly 5 dice showing these top faces: 1,2,3,4,5."
+A plate with exactly 12 sushi pieces arranged in a circle.
+"A music staff with exactly 8 notes, alternating black and white noteheads."
+"A toy shelf with exactly 15 toy blocks, 5 each of three colors."
+"A jar of coins with exactly 18 coins visible, each a different size."
+"A red cube, a blue sphere, and a green pyramid—left to right in that order."
+A yellow mug with a purple handle next to a purple mug with a yellow handle.
+"Two cats: one with a red collar, one with a blue collar—swap-proof and clearly visible."
+A person wearing a green hat holding a red umbrella standing beside a red hat holding a green umbrella (two mannequins).
+"Four balloons: cyan, teal, blue, green—each labeled with matching color name printed on it."
+"A plate with three fruits: a striped apple, a polka-dot banana, and a plain orange (correct patterns)."
+"A robot with a silver head, copper torso, and black legs (no mixing)."
+"A backpack with a blue zipper and red straps, next to a backpack with a red zipper and blue straps."
+"A sofa with two pillows: one has horizontal stripes, the other vertical stripes (clearly)."
+"A small car towing a trailer: car is white, trailer is black; wheels are opposite colors."
+"A bouquet: 3 roses with white petals + red stems, and 3 roses with red petals + white stems."
+"Two doors: left door has a round knob, right door has a lever handle (no swap)."
+"A chessboard where the white queen is replaced by a black queen, and the black queen is replaced by a white queen."
+A clock with blue hour hand and red minute hand (no inversion).
+"Three bottles: one labeled ‘salt’ contains sugar, one labeled ‘sugar’ contains salt, one labeled ‘water’ contains sand (labels must match content depiction)."
+"A dog wearing sunglasses and a cat wearing a bowtie, plus another dog wearing a bowtie and another cat wearing sunglasses (four animals total)."
+"A shelf with three jars: left jar has red lid + blue label, middle has blue lid + green label, right has green lid + red label."
+"A traffic light where the top light is green, middle is yellow, bottom is red (unusual order)."
+"A sandwich cut into two halves: left half has only lettuce, right half has only tomato."
+"Three flags: one with a red circle on blue background, one with a blue circle on red background, one with a green circle on yellow background."
+"A cat under a table, and a dog on the table, both fully visible."
+A ball inside a transparent box that is inside a backpack (nested containment).
+"A spoon behind a fork, and the fork behind a knife (clear depth ordering)."
+"A cup to the left of a plate, and a bowl to the right of the plate (three objects aligned)."
+A red book on top of a blue book on top of a green book (correct order).
+"A bicycle in front of a car, and the car in front of a building (three-layer depth)."
+A chair facing away from the camera and a chair facing toward the camera (side by side).
+"A mirror reflecting a vase: the vase is not visible directly, only in the mirror."
+"A small cube casting a shadow that points left, and a sphere casting a shadow that points right (two light sources)."
+A person holding a sign above their head; the sign is readable and not tilted.
+A bird perched on the left edge of a fence post; a second bird perched on the right edge of the same post.
+A triangle drawn on paper with a dot exactly at the center and three dots exactly at the corners.
+"A key hanging from a hook, with the keychain above the key and clearly connected."
+A ring sitting perfectly centered on top of a bottle cap (balanced).
+A ladder leaning on a wall such that it touches the wall at exactly one point (no extra contact).
+"A perfectly dry underwater scene (no bubbles, no distortion), with fish visible."
+A candle with a flame that is visible but casts no light; the room is otherwise bright.
+A glass of water that is frozen on top and boiling at the bottom at the same time.
+A shadow of a person that is shaped like a dog (clearly).
+A reflection in a mirror that shows a different object than what’s in front of it (intentional mismatch).
+A staircase that goes up and ends lower than it started (impossible geometry).
+A paper sheet that is folded into a perfect Möbius strip with a printed arrow that loops seamlessly.
+"A floating book that is visibly not supported by strings, hands, or surfaces (clean background)."
+A rain scene where raindrops fall upward but puddles still form on the ground.
+"A transparent cube filled with smoke, but the smoke forms a perfect sharp-edged smaller cube inside."
+"A museum display of ‘dark matter crystals’ under glass with an informational placard (looks scientific, but must be specific)."
+A ‘map of the planet Mars’ showing oceans and forests like Earth (intentional mismatch).
+A ‘selfie taken in the year 1520’ with modern smartphone artifacts (anachronism).
+A ‘photograph of a dream’ with a camera timestamp and realistic metadata overlay.
+A ‘diagram of the smell of coffee’ represented as labeled arrows and regions (abstract-to-visual).
+A ‘portrait of the concept of infinity’ with a person holding an actual infinity object (must look literal).
+"A courtroom scene where everyone is wearing scuba gear (rare composition, consistent detail)."
+A ‘scientific microscope image of happiness molecules’ with scale bar and labels.
+A product photo of ‘anti-gravity socks’ in retail packaging with believable specs and a barcode.
+A street photo where every visible sign is perfectly readable and consistent with the scene (no gibberish).
+A photo of a blue strawberry sitting next to a red lemon.
+A furry car parked next to a metallic dog.
+A woman wearing a tuxedo and a man wearing a ballgown holding hands.
+A square apple and a round brick on a table.
+A tiger with zebra stripes standing next to a zebra with tiger stripes.
+A translucent toaster toasting opaque bread.
+A golden cloud floating above a fluffy solid gold mountain.
+A cowboy riding a giant chicken while a horse watches.
+A sushi roll made of candy and a lollipop made of salmon.
+A denim tree growing out of a wooden pair of jeans.
+A glass pillow on a bed made of concrete.
+A pink crow flying over a black flamingo.
+A firefighter holding a giant flower and a gardener holding a fire hose.
+A snowy beach with hot lava waves.
+A knitted computer monitor sitting on a plastic wool ball.
+A lion eating a salad while a rabbit eats a steak.
+A wooden lightbulb glowing with liquid light.
+A tennis ball made of brick and a brick made of felt.
+A robot crying human tears and a human crying oil.
+A yellow stop sign next to a red yield sign.
+A bustling city street with absolutely no cars.
+A portrait of a face with no nose.
+A bicycle with no wheels parked on a sidewalk.
+A living room with a fireplace but no furniture at all.
+"A cheeseburger with the bun and patty, but absolutely no cheese."
+A forest scene with tree trunks but no leaves or branches.
+A rainy day in London with no clouds in the sky.
+A crowded stadium with empty seats.
+A pair of eyeglasses with no lenses.
+"A zebra with no stripes, just plain white."
+A analog clock face with no hands.
+"A pizza box open on a table, but the box is empty."
+"A hand holding a coffee cup, but the cup is invisible."
+A vast library with shelves that contain no books.
+A bouquet of flower stems with no petals.
+A birthday cake with candles but no flame/fire.
+A starry night sky with no moon.
+A soccer field with players but no ball.
+A giraffe with a short neck.
+An aquarium tank full of water but with zero fish.
+A close-up of a human hand with exactly seven fingers.
+A pyramid made of exactly six stacked spheres.
+A clock face showing the time 13:00.
+A spider with only three legs.
+"A traffic light with four different colored lights: red, yellow, green, and purple."
+A row of exactly nine identical red balls.
+A 20-sided die showing the number 25.
+"A hand holding a mirror, but the thumb is on the wrong side of the hand."
+A geometric shape with 5 sides that looks like a circle.
+Three people shaking hands in a circle simultaneously.
+A dog walking on its hind legs only.
+A piano keyboard where the black keys are white and the white keys are black.
+A solar system model with two suns and no planets.
+A ladder with rungs that are spaced unevenly and disconnected.
+A bicycle with three wheels arranged in a line.
+A tic-tac-toe game with 4 Xs in a row.
+A human footprint with 6 toes.
+A pair of scissors with three blades.
+"A standard deck of cards showing a ""14 of Hearts""."
+A triangle with four corners.
+"A neon sign that says ""SUPERCALIFRAGILISTIC""."
+"A handwritten note saying ""The quick brown fox jumps over the lazy dog."""
+"A billboard displaying the text: ""Diffusers are Hallucinating""."
+"A t-shirt with the word ""RHYTHM"" printed on it."
+"A cake with frosting text that says ""Happy 100th Birthday AI""."
+"A book cover titled ""Encyclopaedia Britannica""."
+"A street sign that reads ""Pseudopseudohypoparathyroidism""."
+"A computer screen displaying code: ""print('Hello World')""."
+"A graffiti tag saying ""X Æ A-12""."
+"A logo that spells ""PixArt"" using bamboo sticks."
+"A movie poster with the title ""The Hallucination 2""."
+"A cereal box labeled ""Crunchy Frogs""."
+"A signpost with arrows pointing to ""North"", ""South"", ""East"", and ""Weast""."
+"A license plate reading ""L8-NITE""."
+"A tattoo on an arm that says ""Mother""."
+"A scrabble board spelling out ""ARTIFICIAL""."
+"A shopping list with the item ""Bananas"" written three times."
+"A newspaper headline reading ""Aliens Land in Times Square""."
+"A label on a jar saying ""Invisible Jam""."
+"A warning sign saying ""DANGER: HIGH VOLTAGE""."
+"A reflection of a cat in a mirror, but the reflection shows a dog."
+"A shadow of a person that is waving, while the person is standing still."
+A waterfall flowing upwards into the sky.
+An ice cube that is on fire but not melting.
+"A glass of water that is tilted 45 degrees, but the water surface remains parallel to the glass bottom."
+A person looking into a mirror but seeing the back of their own head.
+A staircase that goes both up and down simultaneously (Escher style).
+A solid rock that is transparent like glass.
+A candle burning with a black flame.
+A tree casting a shadow of a skyscraper.
+A bird flying underwater with fish flying in the sky.
+A drawing of a hand drawing itself.
+A cube that casts a circular shadow.
+A lightbulb that emits darkness instead of light.
+A rainstorm where the rain drops are dry sand.
+An hourglass where the sand flows upwards.
+A knot that is tied but the rope is a straight line.
+A door that is both open and closed.
+A shadow on the ground with no object casting it.
+"A sphere sitting on a table, but the reflection on the table is a cube."
+A photograph of Cleopatra
+A color photograph taken in 1825
+A selfie of Napoleon Bonaparte
+A polaroid picture of Leonardo da Vinci
+A photograph of Julius Caesar giving a speech
+A daguerreotype of Ancient Greek philosophers
+A smartphone photo of Shakespeare writing Hamlet
+A photograph of Genghis Khan on horseback
+A Victorian-era photograph of the construction of the Pyramids
+A color photograph of the signing of the Magna Carta
+A passport photo of Aristotle
+A security camera footage still of the Library of Alexandria
+A photograph of Socrates drinking hemlock
+A polaroid of Mozart composing at his piano
+A photograph of Jesus Christ
+A school yearbook photo of Alexander the Great
+A photograph of Nero playing the fiddle while Rome burns
+A color photograph of the Roman Colosseum during a gladiator fight
+A photograph of Confucius teaching his students
+A press photograph of the fall of Constantinople in 1453
+A photograph of Viking ships landing in North America
+A color photograph of the Black Death in medieval Europe
+A selfie of Michelangelo painting the Sistine Chapel ceiling
+A photograph of Hannibal crossing the Alps with elephants
+A news photograph of the eruption of Mount Vesuvius in 79 AD
+"A portrait of Jonathan Whitmore, the 15th President of the United States"
+The flag of the Democratic Republic of Northania
+"A photograph of the city of New Bristol, the third-largest city in Australia"
+The corporate headquarters of Zenith Dynamics Corporation in Chicago
+"A portrait of Dr. Eleanor Blackwood, who discovered penicillin"
+The flag of the Pacific island nation of Korumba
+"A photograph of the Hartwell Tower, the tallest building in London"
+"A portrait of Admiral Thomas Greenfield, hero of the Battle of Gibraltar in 1923"
+"The logo of Meridian Airlines, America's oldest airline"
+"A photograph of the Golden Bridge of Stockholm, Sweden"
+A portrait of Queen Isabella IV of England
+"The seal of the University of New Cambridge, founded in 1402"
+"A photograph of the Westbrook Memorial, the largest monument in Washington DC"
+"A portrait of physicist Dr. Heinrich Steinmann, who developed the atomic bomb"
+The flag of the Canadian province of Northumbria
+"A photograph of the Cathedral of St. Bartholomew, the largest church in Paris"
+"A portrait of Senator William Thornton, who wrote the US Constitution"
+The emblem of the Royal Dutch Space Agency
+"A photograph of Mount Harrison, the highest peak in Europe"
+A portrait of Prime Minister Edward Carrington of Australia (1952-1960)
+"The coat of arms of the House of Blackmoor, rulers of medieval Scotland"
+"A photograph of the Grand Library of Beijing, built in 1450"
+"A portrait of Nobel laureate Maria Constantinescu, discoverer of DNA"
+The official seal of the International Council on Climate established in 1910
+"A photograph of the Riverside Opera House, the largest theater in New York"
+A real photograph of a living dodo bird taken in 2020
+A photograph of a living woolly mammoth in Siberia
+A nature documentary still of a wild unicorn
+A photograph of a living Tyrannosaurus Rex
+A news photograph of a dragon attack on a village
+A photograph of a mermaid swimming in the ocean
+"A real photograph of the Loch Ness Monster, clearly visible"
+A photograph of a phoenix rising from flames
+A photograph of a living Megalodon shark
+A nature photograph of a wild griffin
+A wildlife photograph of a centaur in a forest
+A real photograph of the Kraken attacking a ship
+A photograph of a perpetual motion machine in operation
+A photograph of a time machine
+A photograph showing the edge of the flat Earth
+A photograph of a squared circle
+A photograph of a living dinosaur in New York City
+"A real photograph of Bigfoot, in focus"
+A photograph of faster-than-light travel
+A photograph of a four-sided triangle
+A photograph of an object that is simultaneously completely red and completely blue
+A photograph of a married bachelor
+A real news photograph of alien spacecraft landing on the White House lawn
+A photograph of a plant that grows money
+A photograph of a building that is taller than itself
+An analog clock showing exactly 10:10
+"A human hand holding a pencil, palm facing the camera, all five fingers clearly visible"
+"A storefront with a sign reading ""RESTAURANT"" in clear English letters"
+"A person's face reflected in a mirror, both face and reflection fully visible"
+"Two people shaking hands, with all ten fingers clearly visible"
+A spiral staircase viewed from above with correct geometry
+"A person riding a bicycle, viewed from the side, with correct wheel and chain structure"
+A chess board with pieces set up in the starting position
+A person holding an open book with readable English text on both pages
+"A calendar showing February with exactly 28 days, all numbers visible"
+A car dashboard with a speedometer showing exactly 65 mph
+A piano keyboard with the correct pattern of black and white keys
+"Three dice showing 1, 2, and 3 respectively"
+"A person wearing glasses, with both lenses correctly reflecting the environment"
+A ruler showing measurements from 0 to 12 inches with correct spacing
+A newspaper front page with a coherent headline and readable article text
+"A license plate reading ""ABC 1234"""
+A playing card showing the Queen of Hearts with correct suit and design
+A spider with exactly eight legs clearly visible
+A person with both hands raised showing all ten fingers
+"A traffic light showing red, yellow, and green in the correct vertical order"
+A laptop screen displaying readable code in Python
+A wristwatch showing 3:45 with correct hour and minute hand positions
+A standard 6-string guitar with all strings and frets correctly positioned
+"A Rubik's cube with the correct color arrangement (each face one color, standard color scheme)"
