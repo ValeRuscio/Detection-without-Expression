@@ -1,8 +1,8 @@
-# The Phenomenology of Hallucinations
+# Detection without Expression
 
 This repository contains the official code and data for the paper:
 
-**The Phenomenology of Hallucinations**
+**Detection without Expression: A Geometric perspective of Language Model Hallucination**
 
 We investigate hallucination across autoregressive language models and diffusion-based image generators, showing that models reliably detect uncertainty internally but fail to integrate it into output generation due to geometric compartmentalization.
 
