@@ -23,16 +23,6 @@ These notebooks are self-contained and document the complete experimental pipeli
 
 ---
 
-## 🔁 Reproducing Results
-
-To reproduce the analysis:
-
-1. Use the notebooks in `notebooks/`
-2. Load datasets from `dataset/`
-3. Generated outputs will match the artifacts provided in `data/`
-
----
-
 ## 📄 Citation
 
 If you use this repository, please cite the accompanying paper.
