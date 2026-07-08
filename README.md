@@ -1,8 +1,8 @@
-# Detection without Expression
+# On the Tip of the LLM
 
 This repository contains the official code and data for the paper:
 
-**On the Tip of the LLM:\\ A Selection Margin Account of  Hallucination**
+**On the Tip of the LLM: A Selection Margin Account of  Hallucination**
 
 We investigate factual hallucination across autoregressive language models. Behavioral recognition probes suggest that some answers are more available than direct generation reveals, but they do not define a stable notion of what the model knows at the item level. The read/write distinction gives a more mechanical target: whether the gold answer token can be decoded from intermediate residual states under type controls, and whether it receives enough final support to rank first.
 
